@@ -1,0 +1,1366 @@
+LIFE	LIVE	.206	DIE	.012	die	.012	live	.206
+ENVIRONMENT	RECYCLE	.013	RECYCLE	.013	recycle	.013	waste	.013
+VOLCANO	ERUPT	.525	EXPLODE	.036	explode	.036	erupt	.525
+EFFORT	TRY	.462	STRAIN	.014	strain	.014	strive	.014	take	.014	try	.462
+RESPIRATION	BREATHE	.654	SWEAT	.059	sweat	.059	breathe	.654
+SPY	SNEAK	.046	CATCH	.013	catch	.013	watch	.026	look	.039	sneak	.046
+POWER	CONTROL	.026	PLAY	.015	play	.015	struggle	.020	control	.026
+AIR	BREATHE	.176	FLY	.014	fly	.014	supply	.068	breathe	.176
+LASH	WHIP	.188	ATTACK	.014	attack	.014	hurt	.029	beat	.036	strike	.036	hit	.101	whip	.188
+SORROW	CRY	.108	UPSET	.020	upset	.020	cry	.108
+SUBWAY	DESCEND	.014	DESCEND	.014	descend	.014	ride	.014	travel	.014
+FLICK	HIT	.052	HURT	.013	hurt	.013	lick	.013	pick	.013	fling	.019	flip	.026	throw	.026	hit	.052
+TONGUE	KISS	.067	TALK	.040	talk	.040	lick	.060	kiss	.067	taste	.067
+NATURE	TRAIL	.023	HIKE	.015	hike	.015	trail	.023	walk	.023
+SAGE	SMART	.020	SEASONING	.014	seasoning	.014	smart	.020
+CHEEK	KISS	.132	PINCH	.013	pinch	.013	blush	.026	kiss	.132
+TAXES	PAY	.074	SUCK	.020	suck	.020	pay	.074
+HAND	SHAKE	.024	FEEL	.012	feel	.012	hold	.012	wash	.012	shake	.024	touch	.024	write	.024
+CHEER	YELL	.111	LAUGH	.013	laugh	.013	show	.033	yell	.111
+ENTRY	ENTER	.033	BEGIN	.013	begin	.013	write	.013	enter	.033
+MONEY	SPEND	.096	BUY	.026	buy	.026	spend	.096
+HAIRCUT	TRIM	.066	BUZZ	.020	buzz	.020	chop	.020	trim	.066
+TELEPHONE	CALL	.229	TALK	.107	talk	.107	call	.229
+EXPERIMENT	RESULT	.014	RESULT	.014	result	.014	try	.014
+THERAPY	HELP	.170	COUGH	.014	cough	.014	heal	.014	need	.014	shrink	.027	help	.170
+RUST	DECAY	.026	STAIN	.020	stain	.020	decay	.026
+PROPERTY	BELONG	.028	SELL	.014	sell	.014	belong	.028
+GRAFT	DRAW	.068	DESIGN	.014	design	.014	draw	.068
+VOYAGE	TRAVEL	.058	CRUISE	.032	cruise	.032	travel	.058
+BEE	STING	.362	BUZZ	.039	buzz	.039	bumble	.055	sting	.362
+VOLUME	CONTROL	.014	CONTROL	.014	control	.014	turn	.014
+WALKWAY	LEAVE	.013	LEAVE	.013	leave	.013	walk	.013
+ARCHITECT	BUILD	.053	DIG	.013	dig	.013	draw	.033	design	.039	build	.053
+TRASH	CAN	.212	DUMP	.013	dump	.013	smell	.026	waste	.026	can	.212
+BET	GAMBLE	.345	DEAL	.012	deal	.012	lose	.055	win	.127	gamble	.345
+TRUST	BELIEVE	.033	RELY	.013	rely	.013	hate	.020	lie	.020	respect	.020	believe	.033
+ORIENT	EXPRESS	.087	HELP	.013	help	.013	express	.087
+ROPE	TIE	.111	SWING	.022	swing	.022	hang	.028	pull	.028	burn	.039	climb	.056	jump	.061	tie	.111
+GUARD	PROTECT	.139	DEFEND	.012	defend	.012	tackle	.018	watch	.115	protect	.139
+PEDAL	PUSH	.020	GO	.013	go	.013	push	.020
+PROPOSAL	ASK	.041	DEAL	.014	deal	.014	grant	.014	ask	.041
+BIRD	FLY	.212	SING	.030	sing	.030	fly	.212
+BLOCKS	BUILD	.075	PLAY	.014	play	.014	build	.075
+GLORY	BE	.060	CALL	.011	call	.011	win	.027	be	.060
+PITCHFORK	STAB	.020	KILL	.014	kill	.014	stab	.020
+PATIENCE	WAIT	.077	CONTROL	.010	control	.010	caring	.015	wait	.077
+CLARINET	BLOW	.032	PLAY	.021	play	.021	blow	.032
+TRAFFIC	JAM	.154	STOP	.034	stop	.034	jam	.154
+OREGANO	SEASONING	.039	COOKING	.013	cooking	.013	seasoning	.039
+LAWSUIT	SUE	.204	TIE	.014	tie	.014	win	.014	sue	.204
+PILLOW	FIGHT	.042	THROW	.018	throw	.018	talk	.024	fight	.042
+MINER	DIG	.020	PICK	.013	pick	.013	dig	.020
+PREACHER	PRAY	.014	PRAY	.014	pray	.014	talk	.014
+TISSUE	SNEEZE	.085	CRY	.023	cry	.023	sneeze	.085
+TREASON	LIE	.054	HANG	.020	hang	.020	lie	.054
+STENCH	SMELL	.562	STINK	.104	stink	.104	smell	.562
+DROP	FALL	.234	RELEASE	.015	release	.015	spill	.015	hold	.022	leave	.022	throw	.022	lose	.036	pick up	.066	add	.080	break	.080	fall	.234
+MEMBER	ASSOCIATE	.034	JOIN	.020	join	.020	associate	.034
+ANCHOR	HOLD	.040	STOP	.016	stop	.016	hold	.040
+GOODS	STOLEN	.023	BUY	.015	buy	.015	supply	.015	stolen	.023
+PACKAGE	WRAP	.042	DEAL	.014	deal	.014	deliver	.035	send	.035	wrap	.042
+BRUISE	HURT	.204	SCRATCH	.013	scratch	.013	fall	.020	fight	.020	punch	.020	hit	.059	hurt	.204
+ELEMENT	COMPOUND	.027	COMPOUND	.027	compound	.027	surprise	.027
+SOFTBALL	HIT	.014	HIT	.014	hit	.014	play	.014	throw	.014
+DOVE	DIVE	.021	FLY	.014	fly	.014	dive	.021
+GLASSES	SEE	.101	BREAK	.013	break	.013	drink	.013	frame	.020	read	.020	see	.101
+TELEVISION	SHOW	.171	SET	.064	set	.064	watch	.121	show	.171
+DOCTOR	HELP	.030	SHOT	.015	shot	.015	help	.030
+WIFE	COOK	.016	COOK	.016	cook	.016	marry	.016
+TUBE	TIRE	.122	SWIM	.014	swim	.014	hike	.054	tire	.122
+NOTICE	SEE	.127	EVICT	.032	evict	.032	observe	.040	perceive	.048	look	.079	see	.127
+PEEL	APPLE	.011	APPLE	.011	apple	.011	slice	.011
+CALCULATOR	ADD	.023	ADD	.023	add	.023	help	.023	watch	.023
+VIOLATION	PARKING	.020	ARREST	.013	arrest	.013	parking	.020
+DISAGREEMENT	FIGHT	.281	HATE	.013	hate	.013	yell	.020	fight	.281
+VARIETY	MIX	.101	CHANGE	.020	change	.020	show	.041	mix	.101
+CATTLE	GRAZE	.027	CALL	.014	call	.014	graze	.027
+FEVER	SWEAT	.022	BURN	.011	burn	.011	sweat	.022
+POLICEMAN	ARREST	.019	JERK	.013	jerk	.013	respect	.013	arrest	.019
+COMPETITION	WIN	.083	SWIM	.014	swim	.014	run	.021	fight	.028	compete	.049	win	.083
+SURGERY	OPERATE	.123	HURT	.014	hurt	.014	operate	.123
+HEAD	ACHE	.082	THINK	.021	think	.021	ache	.082
+FORM	MAKE	.048	CREATE	.012	create	.012	feel	.012	organize	.012	fill	.042	write	.042	make	.048
+CONFESSION	TELL	.062	LIE	.021	lie	.021	admit	.048	tell	.062
+MUSIC	DANCE	.034	HEAR	.014	hear	.014	listen	.014	sing	.014	relax	.020	dance	.034
+DEVICE	OBJECT	.068	CONTROL	.027	control	.027	object	.068
+STUMP	CONFUSE	.021	STOP	.014	stop	.014	confuse	.021	stuck	.021
+FORT	FIGHT	.032	PROTECT	.019	protect	.019	fight	.032
+PAWN	SELL	.196	GIVE	.014	give	.014	steal	.020	sell	.196
+SNACK	MUNCH	.057	APPLE	.014	apple	.014	treat	.014	attack	.021	munch	.057
+SALES	SHOPPING	.027	ASSOCIATE	.014	associate	.014	deal	.014	buy	.020	shopping	.027
+CLOTH	SEW	.042	COVER	.012	cover	.012	wipe	.012	wear	.024	wash	.030	sew	.042
+SKILL	LEARN	.014	LEARN	.014	learn	.014	practice	.014	smart	.014
+LIFESTYLE	CHANGE	.027	COMFORT	.020	comfort	.020	change	.027
+PEOPLE	ASSOCIATE	.014	ASSOCIATE	.014	associate	.014	like	.014	mix	.014
+CURTAIN	CALL	.024	COVER	.016	cover	.016	call	.024
+JOY	LAUGH	.026	HATE	.013	hate	.013	laugh	.026
+INFLUENCE	PERSUADE	.079	SWAY	.013	sway	.013	affect	.026	persuade	.079
+SPEECH	TALK	.283	DEBATE	.013	debate	.013	speak	.013	talk	.283
+SAW	SEE	.067	LOOK	.030	look	.030	see	.067
+BIRDS	FLY	.320	CHIRP	.013	chirp	.013	sing	.026	fly	.320
+MAGGOT	FLY	.155	DECAY	.014	decay	.014	jerk	.014	fly	.155
+IDIOT	SMART	.041	JERK	.027	jerk	.027	smart	.041
+JAW	CHEW	.041	BITE	.021	bite	.021	chew	.041
+OUTCOME	RESULT	.228	WIN	.014	win	.014	finish	.076	result	.228
+FELT	TOUCH	.243	FEEL	.074	feel	.074	touch	.243
+JAR	CAN	.082	JAM	.075	jam	.075	can	.082
+LIGHTNING	STRIKE	.056	FLASH	.042	flash	.042	strike	.056
+SAMPLE	TASTE	.075	TRY	.034	try	.034	taste	.075
+LEARNING	TEACH	.067	FORGET	.013	forget	.013	think	.013	understand	.040	read	.047	smart	.060	teach	.067
+KEEPER	HOLD	.027	WATCH	.020	watch	.020	hold	.027
+ISSUE	DEBATE	.062	DISCUSS	.021	discuss	.021	give	.036	debate	.062
+COMBINATION	COMBINE	.014	COMBINE	.014	combine	.014	join	.014
+DECISION	MAKE	.077	DEBATE	.010	debate	.010	want	.010	think	.041	decide	.056	make	.077
+PRANK	CALL	.051	LIE	.010	lie	.010	play	.010	call	.051
+PEST	CONTROL	.088	FLY	.034	fly	.034	annoy	.054	control	.088
+STICK	STUCK	.061	HIT	.011	hit	.011	hold	.011	prick	.011	stay	.017	stuck	.061
+INJURY	HURT	.448	BREAK	.014	break	.014	hurt	.448
+RUIN	DESTROY	.372	SPOIL	.014	spoil	.014	break	.021	fix	.021	stain	.021	wreck	.090	destroy	.372
+EMPATHY	FEEL	.019	HATE	.013	hate	.013	feel	.019	help	.019
+COCA-COLA	DRINK	.235	POP	.013	pop	.013	drink	.235
+NAUSEA	VOMIT	.247	THROW UP	.039	throw up	.039	vomit	.247
+SHARK	BITE	.115	KILL	.034	kill	.034	attack	.068	bite	.115
+TELESCOPE	SEE	.041	MAGNIFY	.014	magnify	.014	look	.027	see	.041
+SHARE	GIVE	.243	EXCHANGE	.014	exchange	.014	split	.014	giving	.020	help	.020	take	.034	give	.243
+QUIT	STOP	.200	BEGIN	.021	begin	.021	go	.021	finish	.034	start	.048	leave	.069	give up	.083	smoking	.103	stop	.200
+MEDIA	PRESS	.027	PLAY	.014	play	.014	press	.027
+ODOR	SMELL	.697	STINK	.084	stink	.084	smell	.697
+SUFFOCATE	DIE	.255	DROWN	.022	drown	.022	kill	.033	breathe	.044	choke	.117	smother	.165	die	.255
+AMBITION	DESIRE	.061	STRIVE	.034	strive	.034	want	.047	drive	.054	desire	.061
+GLASS	DRINK	.103	BREAK	.087	break	.087	drink	.103
+PROM	DANCE	.221	DRINK	.013	drink	.013	dance	.221
+TIME	WATCH	.154	FLY	.013	fly	.013	hurry	.013	watch	.154
+APPRAISE	EVALUATE	.033	LOOK	.011	look	.011	decide	.017	judge	.017	evaluate	.033
+WASP	STING	.365	BITE	.020	bite	.020	fly	.020	sting	.365
+VENT	RELEASE	.047	BREATHE	.014	breathe	.014	release	.047
+AGONY	DEFEAT	.110	HATE	.013	hate	.013	hurt	.019	defeat	.110
+PROOF	PURCHASE	.047	PROVE	.014	prove	.014	purchase	.047
+AGENT	TRAVEL	.055	HELP	.027	help	.027	travel	.055
+AIDS	HELP	.046	KILL	.013	kill	.013	help	.046
+STAPLE	ATTACH	.022	CONNECT	.014	connect	.014	fasten	.014	attach	.022
+INVENTOR	SMART	.054	DISCOVER	.014	discover	.014	make	.034	smart	.054
+TRENCH	DIG	.064	FIGHT	.013	fight	.013	dig	.064
+TRADE	EXCHANGE	.092	BUY	.014	buy	.014	keep	.014	steal	.014	give	.041	barter	.047	sell	.061	swap	.061	exchange	.092
+CLICK	SNAP	.020	HIT	.013	hit	.013	knock	.013	press	.013	push	.013	snap	.020	tap	.020
+SQUASH	SMASH	.045	CRUSH	.032	crush	.032	smash	.045
+DONATION	GIVE	.066	HELP	.013	help	.013	give	.066
+SHIP	SINK	.031	CRUISE	.016	cruise	.016	sink	.031
+TRIP	FALL	.291	TRAVEL	.074	travel	.074	fall	.291
+CHANNEL	CHANGE	.019	SELECT	.013	select	.013	change	.019
+OUTLINE	DESCRIBE	.014	DESCRIBE	.014	describe	.014	draw	.014	review	.014
+QUILT	SEW	.054	COVER	.040	cover	.040	sew	.054
+SOCK	HIT	.033	HOP	.028	hop	.028	hit	.033	punch	.033
+SASH	DANCE	.014	DANCE	.014	dance	.014	hide	.014
+TWIST	TURN	.275	BEND	.013	bend	.013	break	.013	pull	.013	stretch	.013	move	.020	shake	.034	tie	.060	dance	.081	turn	.275
+PRESENT	SPEAK	.021	SHOW	.014	show	.014	speak	.021
+TECHNICIAN	FIX	.039	REPAIR	.020	repair	.020	fix	.039
+BREAD	SLICE	.019	BAKE	.013	bake	.013	slice	.019
+DETAIL	DESIGN	.013	DESIGN	.013	design	.013	write	.013
+WEAPON	KILL	.061	DEFEND	.014	defend	.014	kill	.061
+SLOPE	ANGLE	.026	INCLINE	.013	incline	.013	rise	.013	angle	.026
+SHADOW	FOLLOW	.047	HIDE	.013	hide	.013	doubt	.027	follow	.047
+SCENERY	PLAY	.027	LOOK	.020	look	.020	play	.027
+ALLEY	CAN	.021	WALK	.014	walk	.014	can	.021
+POT	COOK	.071	BOIL	.029	boil	.029	cook	.071
+MICROSCOPE	MAGNIFY	.041	LOOK	.021	look	.021	see	.021	slide	.027	magnify	.041
+RACE	WIN	.123	COMPETE	.014	compete	.014	run	.094	win	.123
+RACK	HANG	.013	HANG	.013	hang	.013	hit	.013	show	.013
+DIVORCE	SEPARATE	.284	HATE	.020	hate	.020	split	.054	separate	.284
+MILE	RUN	.196	DRIVE	.014	drive	.014	travel	.014	walk	.022	run	.196
+GYMNASTICS	TUMBLE	.106	SWING	.013	swing	.013	meet	.020	jump	.053	flip	.093	tumble	.106
+SKIN	TAN	.141	FEEL	.013	feel	.013	tan	.141
+TWEEZERS	PLUCK	.127	PICK	.021	pick	.021	pull	.049	pinch	.063	pluck	.127
+DICE	GAMBLE	.124	DIE	.028	die	.028	throw	.028	gamble	.124
+NEWSPAPER	READ	.096	PRESS	.010	press	.010	times	.010	read	.096
+SLEEP	AWAKE	.143	SNOOZE	.020	snooze	.020	relax	.051	awake	.143
+RECOGNITION	KNOW	.102	REALIZE	.020	realize	.020	see	.027	acknowledge	.034	award	.041	know	.102
+ADVERTISEMENT	SELL	.039	BUY	.020	buy	.020	sell	.039
+FACT	KNOW	.026	LIE	.010	lie	.010	know	.026
+ENGINE	RUN	.065	ROAR	.016	roar	.016	start	.033	run	.065
+PAW	BEAR	.041	SCRATCH	.020	scratch	.020	bear	.041
+PATCH	FIX	.079	SEW	.033	sew	.033	fix	.079
+PAD	WRITE	.061	COVER	.014	cover	.014	write	.061
+PRIDE	RESPECT	.022	HURT	.014	hurt	.014	respect	.022	win	.022
+HEADING	GOING	.040	LEAD	.027	lead	.027	going	.040
+PAN	COOK	.155	FRY	.128	fry	.128	cook	.155
+COMMENT	TALK	.132	ADD	.013	add	.013	reply	.013	criticize	.020	tell	.026	speak	.033	say	.046	remark	.125	talk	.132
+SLOGAN	SAYING	.158	SELL	.013	sell	.013	saying	.158
+AWE	AMAZE	.126	DISMAY	.013	dismay	.013	scared	.013	like	.020	admire	.026	surprise	.040	amaze	.126
+PRIZE	WIN	.338	FIGHT	.013	fight	.013	award	.071	win	.338
+HELPER	AID	.160	ASSIST	.035	assist	.035	aid	.160
+SIGN	STOP	.348	READ	.029	read	.029	write	.072	stop	.348
+FAVOR	ASK	.075	PREFER	.014	prefer	.014	return	.014	want	.014	promise	.021	request	.021	help	.055	please	.055	like	.068	ask	.075
+COIN	CHANGE	.036	SPEND	.012	spend	.012	toss	.024	change	.036
+SAUCE	APPLE	.014	APPLE	.014	apple	.014	cover	.014
+OIL	SPILL	.101	CAN	.020	can	.020	lubricate	.034	change	.041	spill	.101
+BINDER	HOLD	.019	BEND	.013	bend	.013	keep	.013	hold	.019
+TRIGGER	START	.032	PULL	.013	pull	.013	start	.032
+BENCH	SIT	.248	PRESS	.036	press	.036	sit	.248
+PAPER TOWEL	WIPE	.060	SPILL	.013	spill	.013	wipe	.060
+STRESS	STRAIN	.036	REDUCE	.014	reduce	.014	scared	.014	relax	.021	sweat	.021	worry	.029	strain	.036
+BUS	STOP	.063	TRAVEL	.016	travel	.016	ride	.055	stop	.063
+BOXING	FIGHT	.161	PUNCH	.047	punch	.047	hit	.074	fight	.161
+POSSIBILITY	CHANGE	.260	HOPE	.014	hope	.014	change	.260
+SANDPAPER	SCRATCH	.057	FINISH	.014	finish	.014	scratch	.057
+BUM	TRAMP	.038	JERK	.013	jerk	.013	rap	.026	tramp	.038
+PANIC	SCARED	.150	HELP	.014	help	.014	scream	.014	sweat	.014	hurry	.020	run	.034	attack	.041	worry	.041	scared	.150
+BUG	FLY	.060	ANNOY	.013	annoy	.013	crawl	.013	bite	.034	spray	.047	fly	.060
+HALT	STOP	.906	GO	.051	go	.051	stop	.906
+PENDULUM	SWING	.176	HYPNOTIZE	.046	hypnotize	.046	swing	.176
+THEME	PLAY	.036	DANCE	.015	dance	.015	play	.036
+GUILT	LIE	.021	BLAME	.014	blame	.014	hurt	.014	scare	.014	lie	.021
+DECEIT	LIE	.215	BETRAY	.020	betray	.020	steal	.020	hate	.047	cheat	.067	lie	.215
+BREEZEWAY	WALK	.033	EASY	.013	easy	.013	walk	.033
+FOLDER	HOLD	.047	ORGANIZE	.020	organize	.020	hold	.047
+VICTOR	WIN	.115	LOSE	.014	lose	.014	win	.115
+NECK	TIE	.079	KISS	.024	kiss	.024	tie	.079
+BUTTON	SNAP	.089	FLY	.041	fly	.041	sew	.041	push	.055	snap	.089
+COLOGNE	SMELL	.207	SPRAY	.029	spray	.029	smell	.207
+MOB	FIGHT	.024	ATTACK	.016	attack	.016	fight	.024
+MAILMAN	DELIVER	.033	STAMP	.013	stamp	.013	deliver	.033
+LADDER	CLIMB	.338	FALL	.048	fall	.048	climb	.338
+VALVE	COVER	.020	COVER	.020	cover	.020	tire	.020	turn	.020
+COMMERCIAL	SELL	.026	BREAK	.020	break	.020	sell	.026
+WRITING	PRINTING	.033	SCRIBBLE	.013	scribble	.013	printing	.033
+POSSUM	HUNT	.022	STEW	.014	stew	.014	hunt	.022
+BULL	FIGHT	.018	RUN	.012	run	.012	steer	.012	fight	.018
+ABILITY	DO	.021	CAN	.014	can	.014	do	.021
+DUCKS	QUACK	.233	SWIM	.013	swim	.013	quack	.233
+INFLATION	RISE	.040	INCREASE	.027	increase	.027	raise	.027	rise	.040
+EXERCISE	SWEAT	.115	DANCE	.014	dance	.014	fit	.034	run	.054	jog	.074	sweat	.115
+IRON	LEAD	.010	LEAD	.010	lead	.010	press	.010
+INSTINCT	DESIRE	.013	DESIRE	.013	desire	.013	kill	.013
+TOOTH	DECAY	.232	BITE	.022	bite	.022	ache	.123	decay	.232
+HEART ATTACK	DIE	.034	HURT	.021	hurt	.021	die	.034
+PRESENTATION	SHOW	.095	SLIDE	.034	slide	.034	show	.095
+APPEAL	LIKE	.137	PLEAD	.014	plead	.014	ask	.021	beg	.034	looks	.034	please	.034	attract	.041	like	.137
+DANCER	DANCE	.013	DANCE	.013	dance	.013	show	.013
+SPEAKER	TALK	.034	LISTEN	.021	listen	.021	talk	.034
+ELECTION	DEBATE	.029	PICK	.014	pick	.014	result	.021	debate	.029	win	.029
+RAPE	HURT	.028	ASSAULT	.014	assault	.014	beat	.014	hate	.014	kill	.014	abuse	.021	attack	.021	hurt	.028
+SKUNK	SMELL	.559	STINK	.228	stink	.228	smell	.559
+APPOINTMENT	KEEP	.020	KEEP	.020	keep	.020	set	.020
+STARCH	BLEACH	.055	SPRAY	.018	spray	.018	wash	.018	bleach	.055
+PLATFORM	DIVE	.088	STAND	.027	stand	.027	dive	.088
+NEEDLE	SEW	.224	PRICK	.012	prick	.012	sew	.224
+TRANCE	HYPNOTIZE	.250	FALL	.014	fall	.014	think	.021	spell	.028	stare	.035	hypnotize	.250
+TACT	SMART	.014	SMART	.014	smart	.014	touch	.014
+EFFECT	AFFECT	.094	HELP	.013	help	.013	change	.040	result	.074	affect	.094
+WARRIOR	FIGHT	.083	KILL	.014	kill	.014	rebel	.014	fight	.083
+CRISIS	HELP	.027	ATTACK	.014	attack	.014	crash	.014	cry	.014	hurt	.014	worry	.014	help	.027
+DISHWASHER	COOK	.013	COOK	.013	cook	.013	sink	.013	wash	.013
+BATTERY	CHARGE	.086	WATCH	.013	watch	.013	assault	.020	charge	.086
+FOCUS	CONCENTRATE	.127	THINK	.014	think	.014	direct	.021	see	.021	look	.035	blur	.049	concentrate	.127
+FLOWERS	SMELL	.045	SPRING	.015	spring	.015	smell	.045
+CLOVE	SEASONING	.027	SMELL	.020	smell	.020	seasoning	.027
+CANE	LIMP	.036	WALK	.029	walk	.029	limp	.036
+MURDERER	KILL	.092	JERK	.013	jerk	.013	kill	.092
+STEPS	WALK	.099	CLIMB	.026	climb	.026	walk	.099
+INTERVIEW	TALK	.047	ASK	.014	ask	.014	scared	.014	talk	.047
+CHAMPAGNE	DRINK	.102	JAM	.031	jam	.031	drink	.102
+COCAINE	CRACK	.092	BLOW	.013	blow	.013	sniff	.013	crack	.092
+EXPLORER	DISCOVER	.047	SEARCH	.027	search	.027	discover	.047	find	.047
+CONTEST	WIN	.174	FIGHT	.015	fight	.015	compete	.045	win	.174
+OVERVIEW	LOOK	.080	PREVIEW	.027	preview	.027	see	.027	review	.073	look	.080
+WOUND	HURT	.215	HEAL	.035	heal	.035	hurt	.215
+CRITIC	ANALYZE	.054	INSULT	.014	insult	.014	judge	.014	review	.014	criticize	.041	analyze	.054
+OBLIGATION	PROMISE	.048	MUST	.021	must	.021	need	.021	promise	.048
+MOONLIGHT	KISS	.020	GLOW	.014	glow	.014	kiss	.020
+OATH	PROMISE	.218	JUDGE	.014	judge	.014	swear	.143	promise	.218
+SURF	SWIM	.032	RIDE	.021	ride	.021	swim	.032
+DESCENT	FALL	.087	CLIMB	.016	climb	.016	decline	.016	lower	.056	fall	.087
+DETERGENT	WASH	.124	SMELL	.014	smell	.014	bleach	.027	wash	.124
+STARBOARD	BOUND	.014	BOUND	.014	bound	.014	cruise	.014
+KNEE	BEND	.087	JERK	.048	jerk	.048	bend	.087
+DISHES	WASH	.257	BREAK	.028	break	.028	sink	.028	wash	.257
+NAPKIN	WIPE	.148	FOLD	.034	fold	.034	wipe	.148
+REGULATION	CONTROL	.014	CONTROL	.014	control	.014	tire	.014
+FOSSIL	REMAIN	.020	DIG	.013	dig	.013	watch	.013	remain	.020
+INFORMATION	LEARN	.020	ASK	.014	ask	.014	find	.014	help	.014	tell	.014	learn	.020
+CONTAINER	HOLD	.040	CAN	.020	can	.020	hold	.040
+REVIVAL	LIVE	.061	AWAKE	.015	awake	.015	live	.061
+JAZZ	DANCE	.163	SING	.014	sing	.014	dance	.163
+ANKLE	SPRAIN	.049	BREAK	.035	break	.035	sprain	.049
+WHEAT	BUCK	.014	BUCK	.014	buck	.014	toast	.014
+SENSE	SMELL	.250	SEE	.035	see	.035	taste	.035	touch	.077	feel	.120	smell	.250
+CROSSING	WALK	.073	STOP	.013	stop	.013	walk	.073
+HELICOPTER	FLY	.184	CRASH	.020	crash	.020	ride	.020	fly	.184
+MATH	ADD	.042	THINK	.012	think	.012	add	.042
+SUB	SUBTRACT	.019	REPLACE	.013	replace	.013	subtract	.019
+SERVICE	HELP	.186	FIX	.041	fix	.041	help	.186
+SUN	TAN	.173	BURN	.047	burn	.047	shine	.087	tan	.173
+TEETH	CHEW	.035	BITE	.021	bite	.021	chew	.035
+DEER	FAWN	.042	HUNTING	.028	hunting	.028	run	.028	buck	.035	fawn	.042
+GAME	PLAY	.250	SHOW	.027	show	.027	win	.027	play	.250
+MOTORCYCLE	RIDE	.043	CRASH	.014	crash	.014	ride	.043
+PAIN	HURT	.551	ACHE	.013	ache	.013	hurt	.551
+HALLUCINATION	IMAGINE	.041	SEE	.014	see	.014	imagine	.041
+GRASS	MOW	.076	GROW	.016	grow	.016	mow	.076
+HANDKERCHIEF	SNEEZE	.151	TEAR	.022	tear	.022	blow	.029	cry	.094	sneeze	.151
+DRACULA	COUNT	.041	BITE	.020	bite	.020	count	.041
+SWATTER	FLY	.747	SLAP	.014	slap	.014	hit	.027	fly	.747
+SUPPORT	HELP	.246	COMFORT	.010	comfort	.010	give	.010	aid	.015	hold	.041	help	.246
+CONCLUDE	FINISH	.227	STOP	.013	stop	.013	decide	.019	understand	.019	finish	.227
+DEPLETION	DECREASE	.020	DISINTEGRATE	.013	disintegrate	.013	finished	.013	used	.013	waste	.013	decrease	.020
+CONSEQUENCE	RESULT	.150	HAPPEN	.013	happen	.013	pay	.013	result	.150
+LEMON	APPLE	.013	APPLE	.013	apple	.013	squeeze	.013
+CRAMP	HURT	.046	ACHE	.013	ache	.013	swim	.013	hurt	.046
+SAFETY	DRIVE	.029	COMFORT	.014	comfort	.014	drive	.029
+ARCHITECTURE	BUILD	.027	DRAW	.013	draw	.013	build	.027	design	.027
+KITCHEN	COOK	.183	SINK	.173	sink	.173	cook	.183
+JUNK	DUMP	.024	WASTE	.016	waste	.016	dump	.024
+CANDIDATE	ELECT	.027	JERK	.014	jerk	.014	elect	.027	run	.027
+SUICIDE	KILL	.128	DIE	.027	die	.027	kill	.128
+SIGNATURE	WRITE	.046	SCRIBBLE	.013	scribble	.013	write	.046
+DISC	DRIVE	.013	DRIVE	.013	drive	.013	throw	.013
+BLAZE	BURN	.038	TRAIL	.019	trail	.019	burn	.038
+LOGIC	THINK	.115	UNDERSTAND	.014	understand	.014	smart	.095	think	.115
+DISH	WASH	.036	BREAK	.024	break	.024	wash	.036
+WIRE	LIVE	.050	TAP	.028	tap	.028	live	.050
+FLUTE	BLOW	.028	BLOW	.028	blow	.028	play	.028
+CARRIAGE	RIDE	.041	CARRY	.015	carry	.015	ride	.041
+TEST	EXAMINE	.024	FAIL	.016	fail	.016	pass	.016	examine	.024
+ANGER	HATE	.109	HIT	.017	hit	.017	hurt	.017	scream	.017	upset	.017	hate	.109
+EAR	HEAR	.261	ACHE	.035	ache	.035	listen	.035	hear	.261
+EAT	DRINK	.153	STARVE	.011	starve	.011	chew	.022	drink	.153
+CYCLE	RIDE	.088	REPEAT	.014	repeat	.014	turn	.014	recycle	.020	run	.020	ride	.088
+SHOP	BUY	.142	LIFT	.010	lift	.010	sell	.010	stop	.010	spend	.015	buy	.142
+HOG	SOW	.020	WASH	.014	wash	.014	sow	.020
+HOE	PLOW	.035	PICK	.021	pick	.021	plow	.035
+MILDEW	STAIN	.041	SMELL	.020	smell	.020	stain	.041
+UNDERWATER	DROWN	.087	DIVE	.013	dive	.013	breathe	.034	diving	.060	swim	.081	drown	.087
+DECEPTION	LIE	.346	DECEIVE	.023	deceive	.023	sneak	.031	cheat	.038	lie	.346
+METAL	FRAME	.013	FRAME	.013	frame	.013	object	.013
+VALUE	BUY	.014	BUY	.014	buy	.014	deal	.014	save	.014
+SHOE	FIT	.051	TIE	.013	tie	.013	fit	.051
+TROT	RUN	.152	RIDE	.028	ride	.028	jog	.041	walk	.048	run	.152
+NEGOTIATION	TALK	.143	BARTER	.014	barter	.014	think	.014	win	.014	discuss	.027	deal	.095	talk	.143
+POUND	HIT	.054	PUNCH	.014	punch	.014	beat	.041	hit	.054
+PUBERTY	GROW	.066	CHANGE	.033	change	.033	grow	.066
+GARAGE	SMELL	.013	SMELL	.013	smell	.013	stink	.013
+TOUR	TRAVEL	.056	LOOK	.014	look	.014	see	.028	visit	.028	travel	.056
+ULCER	WORRY	.034	ATTACK	.013	attack	.013	hurt	.020	worry	.034
+SOAP	WASH	.076	SMELL	.022	smell	.022	wash	.076
+DIRECTION	STOP	.029	FOLLOW	.014	follow	.014	go	.014	stop	.029
+APOLOGY	FORGIVE	.065	CRY	.013	cry	.013	excuse	.013	fight	.013	regret	.013	accept	.026	forgive	.065
+ARTIST	CREATE	.041	DRAW	.015	draw	.015	create	.041
+STOPLIGHT	GO	.086	RUN	.020	run	.020	stop	.020	go	.086
+BIKE	RIDE	.280	SWEAT	.013	sweat	.013	trail	.013	tire	.040	ride	.280
+WRENCH	PULL	.039	TURN	.024	turn	.024	fix	.031	pull	.039
+BRAKE	STOP	.412	GO	.020	go	.020	accelerate	.034	stop	.412
+VAN	DRIVE	.034	TRAVEL	.014	travel	.014	drive	.034
+SENTENCE	COMPOSE	.028	SPELL	.014	spell	.014	talk	.021	compose	.028	judge	.028
+RECLINER	RELAX	.128	SIT	.041	sit	.041	relax	.128
+CORAL	DIVE	.021	SPRING	.014	spring	.014	dive	.021
+FEELINGS	HURT	.171	CRY	.014	cry	.014	touch	.021	hurt	.171
+FEELING	TOUCH	.046	HURT	.015	hurt	.015	touch	.046
+FIN	FINISH	.013	FINISH	.013	finish	.013	swim	.013
+LEASE	BUY	.026	LEND	.013	lend	.013	borrow	.020	buy	.026
+DIAL	CALL	.019	WATCH	.013	watch	.013	call	.019
+ATTENDANCE	SHOW	.041	ARRIVE	.014	arrive	.014	show	.041
+PROCESS	EVALUATE	.014	EVALUATE	.014	evaluate	.014	make	.014	put	.014	think	.014
+VIEW	LOOK	.137	SEE	.110	see	.110	look	.137
+RASH	IRRITATE	.020	BURN	.013	burn	.013	irritate	.020	scratch	.020
+WILL	DIE	.069	WANT	.014	want	.014	desire	.041	die	.069
+BREEZE	BLOW	.030	EASY	.018	easy	.018	blow	.030
+TAPE	FIX	.014	FIX	.014	fix	.014	listen	.014
+BUMPER	HIT	.020	CRASH	.013	crash	.013	hit	.020
+ELIMINATION	LOSE	.046	WASTE	.013	waste	.013	forget	.020	stop	.020	leave	.026	remove	.026	take	.026	kill	.033	lose	.046
+CLAIMS	SUE	.014	SUE	.014	sue	.014	take	.014
+ADDICT	HOOKED	.027	NEED	.020	need	.020	hooked	.027
+RIDDLE	CONFUSE	.019	LAUGH	.013	laugh	.013	confuse	.019
+ADVICE	HELP	.236	LISTEN	.010	listen	.010	tell	.010	talk	.026	give	.041	help	.236
+INSTRUCTIONS	FOLLOW	.053	DO	.013	do	.013	give	.013	listen	.013	follow	.053	read	.053
+GRADUATION	FAIL	.013	FAIL	.013	fail	.013	finish	.013	practice	.013
+RELIEF	AID	.052	HELP	.046	help	.046	relax	.046	aid	.052
+WEEKEND	RELAX	.081	BREAK	.013	break	.013	relax	.081
+LIVING ROOM	RELAX	.033	SIT	.013	sit	.013	relax	.033
+DOOR	JAM	.022	JAM	.022	jam	.022	stop	.022
+UNION	JOIN	.048	STRIKE	.020	strike	.020	unite	.020	join	.048
+HATCHET	CHOP	.027	BURY	.013	bury	.013	kill	.020	chop	.027
+MISERY	CRY	.014	CRY	.014	cry	.014	despair	.014
+FLAG	SALUTE	.041	FLY	.021	fly	.021	salute	.041
+TWIG	BREAK	.034	BREAK	.034	break	.034	snap	.034
+BLOT	SMEAR	.039	STAIN	.013	stain	.013	smudge	.020	spill	.020	smear	.039
+AGENCY	TRAVEL	.047	HELP	.034	help	.034	travel	.047
+CLOROX	BLEACH	.787	WASH	.013	wash	.013	smell	.020	bleach	.787
+SHOVEL	DIG	.127	PICK	.042	pick	.042	dig	.127
+DISASTER	WRECK	.027	CRASH	.014	crash	.014	destroy	.020	wreck	.027
+DOE	FAWN	.027	BUCK	.014	buck	.014	fawn	.027
+OPERATOR	CONTROL	.041	HELP	.020	help	.020	control	.041
+COST	PAY	.055	LIVE	.012	live	.012	buy	.024	spend	.024	pay	.055
+SCULPTURE	CREATE	.028	DRAW	.014	draw	.014	make	.014	create	.028
+DEFINITION	EXPLAIN	.200	UNDERSTAND	.029	understand	.029	describe	.057	explain	.200
+GIFT	GIVE	.038	SURPRISE	.013	surprise	.013	receive	.026	wrap	.026	give	.038
+PARSLEY	SEASONING	.060	COOKING	.013	cooking	.013	smell	.013	seasoning	.060
+PLAY DOUGH	PLAY	.027	SMELL	.014	smell	.014	play	.027
+MEDICINE	HELP	.027	COUGH	.011	cough	.011	shot	.011	taste	.016	help	.027
+CRANE	LIFT	.088	DIG	.014	dig	.014	lift	.088
+OATMEAL	APPLE	.013	APPLE	.013	apple	.013	disgust	.013
+AUTUMN	FALL	.526	SPRING	.117	spring	.117	fall	.526
+POEM	READ	.026	WRITE	.020	write	.020	read	.026
+PUN	LAUGH	.031	TEASE	.016	tease	.016	laugh	.031
+QUIZ	POP	.021	FAIL	.014	fail	.014	pop	.021
+INCENSE	SMELL	.453	BURN	.101	burn	.101	smell	.453
+CURTAINS	COVER	.014	COVER	.014	cover	.014	hang	.014
+BAT	FLY	.063	BITE	.016	bite	.016	fly	.063
+BAR	DRINK	.393	DANCE	.014	dance	.014	grill	.034	drink	.393
+ITCH	SCRATCH	.848	BITE	.028	bite	.028	scratch	.848
+MATERIAL	SEW	.054	SUPPLY	.014	supply	.014	possess	.027	object	.041	sew	.054
+SAUSAGE	FATTENING	.020	POLISH	.013	polish	.013	fattening	.020
+BAG	CARRY	.039	SHOPPING	.016	shopping	.016	carry	.039
+QUALITY	CONTROL	.014	CONTROL	.014	control	.014	make	.014
+TRUCK	STOP	.047	HAUL	.014	haul	.014	pull	.014	drive	.020	dump	.020	tire	.034	stop	.047
+TRUCE	AGREE	.033	STOP	.020	stop	.020	agree	.033	fight	.033
+JUDGMENT	JUDGE	.092	CRITICIZE	.013	criticize	.013	judge	.092
+RISK	DARE	.048	AVOID	.014	avoid	.014	scare	.021	try	.021	lose	.028	dare	.048	take	.048
+TORTURE	HURT	.108	PUNISH	.014	punish	.014	ridicule	.014	whip	.014	abuse	.020	kill	.027	hurt	.108
+BONUS	PAY	.013	PAY	.013	pay	.013	raise	.013
+SONG	SING	.291	DANCE	.115	dance	.115	sing	.291
+VACATION	BREAK	.054	PAY	.014	pay	.014	travel	.014	relax	.034	break	.054
+WOOD	BURN	.091	BUILD	.012	build	.012	steal	.012	chop	.030	burn	.091
+DITCH	DIG	.102	DRAIN	.020	drain	.020	dig	.102
+CANCER	DIE	.074	KILL	.020	kill	.020	die	.074
+SHUTTER	SHAKE	.047	FREEZE	.014	freeze	.014	shiver	.020	scared	.027	shake	.047
+REST	RELAX	.187	GO	.010	go	.010	play	.021	stop	.021	relax	.187
+SHOUT	YELL	.401	WHISPER	.021	whisper	.021	scream	.204	yell	.401
+FLAME	BURN	.071	BROIL	.016	broil	.016	burn	.071
+CHIPS	DIP	.233	FATTENING	.014	fattening	.014	lay	.014	dip	.233
+HEALTH	FIT	.042	WATCH	.014	watch	.014	fit	.042
+PORCELAIN	BREAK	.047	SINK	.013	sink	.013	break	.047
+LID	COVER	.326	CAN	.022	can	.022	cover	.326
+COUNSEL	HELP	.256	JUDGE	.020	judge	.020	advise	.041	talk	.048	help	.256
+REFEREE	JUDGE	.054	CONTROL	.013	control	.013	fight	.013	whistle	.020	judge	.054
+LIP	KISS	.315	TALK	.024	talk	.024	kiss	.315
+FILE	ORGANIZE	.021	KEEP	.014	keep	.014	organize	.021
+PIKE	TURN	.092	DRIVE	.011	drive	.011	turn	.092
+BICYCLE	RIDE	.230	TIRE	.061	tire	.061	ride	.230
+MONKEY	SHINE	.021	SEE	.014	see	.014	shine	.021
+SNAIL	CRAWL	.014	CRAWL	.014	crawl	.014	slither	.014
+DELIGHT	ENJOY	.041	LIKE	.010	like	.010	laugh	.015	enjoy	.041
+SOCCER	KICK	.040	PLAY	.020	play	.020	kick	.040
+TECHNIQUE	DANCE	.013	DANCE	.013	dance	.013	move	.013	practice	.013
+WALKER	CAN	.014	CAN	.014	can	.014	run	.014
+SPIDER	CRAWL	.024	FLY	.016	fly	.016	crawl	.024
+SACK	HIT	.010	HIT	.010	hit	.010	nap	.010
+EDITORIAL	WRITE	.039	READ	.013	read	.013	write	.039
+BALLOT	CAST	.014	CAST	.014	cast	.014	elect	.014
+EMERGENCY	HELP	.075	CALL	.014	call	.014	hurry	.014	aid	.021	help	.075
+TRAIN	WHISTLE	.045	LEARN	.013	learn	.013	ride	.013	teach	.019	whistle	.045
+OLYMPICS	RUN	.033	JUMP	.013	jump	.013	run	.033
+CLIFF	FALL	.090	DIVE	.062	dive	.062	jump	.062	fall	.090
+FORK	LIFT	.039	STAB	.024	stab	.024	lift	.039
+ALCOHOL	DRINK	.151	INTOXICATE	.014	intoxicate	.014	abuse	.041	drink	.151
+BEGGAR	PLEAD	.020	NEED	.014	need	.014	plead	.020
+GALLOP	RUN	.065	HOP	.014	hop	.014	ride	.022	run	.065
+PEAR	APPLE	.252	LOOK	.034	look	.034	apple	.252
+BRIBE	CHEAT	.094	JUDGE	.016	judge	.016	pay	.016	steal	.016	persuade	.024	cheat	.094
+EARTHQUAKE	SHAKE	.241	MOVE	.021	move	.021	shake	.241
+POPULATION	CONTROL	.027	INCREASE	.014	increase	.014	control	.027
+MARCH	WALK	.101	SPRING	.014	spring	.014	walk	.101
+SLING	SHOT	.412	SWING	.014	swing	.014	cast	.027	throw	.061	shot	.412
+HOROSCOPE	ASTROLOGY	.063	PREDICT	.014	predict	.014	astrology	.063
+QUEST	SEARCH	.114	DESIRE	.013	desire	.013	travel	.013	find	.020	look	.027	seek	.034	conquer	.047	search	.114
+FUNCTION	USE	.056	DO	.014	do	.014	operate	.014	move	.035	use	.056
+END	BEGIN	.521	MEANS	.017	means	.017	stop	.067	start	.101	finish	.118	begin	.521
+TRIBUTE	SALUTE	.049	BLESS	.014	bless	.014	pay	.014	toast	.014	celebrate	.028	award	.035	give	.035	salute	.049
+ADJUSTMENT	CHANGE	.209	ALTER	.041	alter	.041	move	.061	fix	.196	change	.209
+NERVE	TOUCH	.018	FEEL	.012	feel	.012	jump	.012	pinch	.012	scared	.012	touch	.018
+MICROPHONE	SING	.185	LISTEN	.014	listen	.014	speak	.048	talk	.089	sing	.185
+LEAK	DRIP	.247	DRAIN	.014	drain	.014	sink	.021	crack	.027	spill	.034	fix	.041	drip	.247
+AGREEMENT	AGREE	.021	BELIEVE	.014	believe	.014	understand	.014	agree	.021
+MOSQUITO	BITE	.362	STING	.014	sting	.014	fly	.051	bite	.362
+POTATOES	FRIES	.178	FRIED	.020	fried	.020	baked	.086	fries	.178
+INTEGRITY	RESPECT	.021	SMART	.014	smart	.014	respect	.021
+TOILET	FLUSH	.074	SIT	.020	sit	.020	sink	.034	flush	.074
+GRASSHOPPER	HOP	.065	DRINK	.013	drink	.013	smash	.013	jump	.052	hop	.065
+SMOKE	COUGH	.039	SMELL	.016	smell	.016	cough	.039
+PAINT	DRAW	.127	CAN	.012	can	.012	smell	.012	spray	.012	draw	.127
+PITCHER	DRINK	.061	STRIKE	.014	strike	.014	drink	.061
+MISSION	ACCOMPLISHED	.089	CONTROL	.021	control	.021	accomplished	.089
+BRAIN	THINK	.239	LEARN	.011	learn	.011	smart	.094	think	.239
+SUPERSTITION	SCARED	.065	LIE	.013	lie	.013	scared	.065
+GRACE	POISE	.027	DANCE	.016	dance	.016	fall	.016	poise	.027
+PANTYHOSE	RUN	.150	TAN	.014	tan	.014	run	.150
+REVOLUTION	CHANGE	.062	FIGHT	.014	fight	.014	turn	.034	change	.062
+LOTTERY	WIN	.167	CHANGE	.014	change	.014	gamble	.014	win	.167
+PUZZLE	CONFUSE	.094	FRUSTRATE	.013	frustrate	.013	solve	.027	confuse	.094
+CART	SHOPPING	.107	APPLE	.014	apple	.014	pull	.021	carry	.029	push	.029	go	.057	shopping	.107
+LETTER	WRITE	.176	READ	.014	read	.014	stamp	.088	write	.176
+PLIERS	FIX	.020	PINCH	.014	pinch	.014	fix	.020	pull	.020
+CARD	PLAY	.036	PLAYING	.024	playing	.024	play	.036
+CARE	CONCERN	.074	NEGLECT	.014	neglect	.014	aid	.020	hate	.020	give	.027	like	.027	concern	.074	help	.074
+CLAMP	HOLD	.124	FASTEN	.013	fasten	.013	grab	.013	hurt	.013	shut	.013	squeeze	.013	snap	.020	tire	.020	tow	.020	hold	.124
+LIST	WRITE	.105	ORGANIZE	.021	organize	.021	shopping	.049	write	.105
+ADJECTIVE	DESCRIBE	.051	LEARN	.014	learn	.014	describe	.051
+HARVEST	REAP	.046	GATHER	.013	gather	.013	pick	.013	grow	.020	reap	.046
+TOES	JAM	.029	SMELL	.014	smell	.014	jam	.029
+FLIGHT	FIGHT	.054	TRAVEL	.014	travel	.014	fly	.047	fight	.054
+BARGAIN	DEAL	.159	SHOPPING	.016	shopping	.016	barter	.024	buy	.024	save	.024	deal	.159
+MULE	KICK	.016	KICK	.016	kick	.016	pull	.016
+CONTACT	TOUCH	.416	FEEL	.011	feel	.011	talk	.011	hit	.017	reach	.039	call	.072	touch	.416
+ZIPPER	FLY	.119	SNAP	.014	snap	.014	stuck	.035	fly	.119
+SCAPEGOAT	BLAME	.110	EASY	.013	easy	.013	escape	.013	fall	.013	lie	.058	excuse	.078	blame	.110
+GYM	SWEAT	.086	LIFT	.013	lift	.013	sweat	.086
+APATHY	HATE	.035	CONCERN	.014	concern	.014	hate	.035
+QUESTION	ASK	.034	LEARN	.014	learn	.014	ask	.034
+BELT	HIT	.055	TIE	.024	tie	.024	hit	.055
+RULE	BREAK	.093	FOLLOW	.021	follow	.021	obey	.021	break	.093
+LIAR	CHEAT	.190	JERK	.014	jerk	.014	sneak	.014	lie	.027	cheat	.190
+BLESSING	PRAY	.035	DISGUISE	.014	disguise	.014	forgive	.021	hope	.021	pray	.035
+ARGUMENT	FIGHT	.514	DEBATE	.014	debate	.014	disagree	.034	yell	.081	fight	.514
+POCKET	CHANGE	.072	WATCH	.043	watch	.043	change	.072
+NERVES	SCARED	.043	FEEL	.014	feel	.014	shake	.021	shot	.021	scared	.043
+COPY	CHEAT	.318	WRITE	.023	write	.023	duplicate	.068	cheat	.318
+STRAND	LEAVE	.088	STUCK	.014	stuck	.014	leave	.088
+CONCEPT	UNDERSTAND	.050	LEARN	.014	learn	.014	grasp	.029	understand	.050
+ZONE	TOW	.062	PARKING	.042	parking	.042	tow	.062
+PADDLE	SPANK	.068	SWIM	.014	swim	.014	whip	.014	hurt	.020	hit	.061	spank	.068
+GRIEF	CRY	.061	DESPAIR	.012	despair	.012	hurt	.018	upset	.024	cry	.061
+SKATE	SLIDE	.042	GLIDE	.014	glide	.014	ride	.014	fall	.021	slide	.042
+RENT	PAY	.081	SELL	.014	sell	.014	borrow	.034	buy	.068	pay	.081
+BURGLAR	STEAL	.095	ROB	.081	rob	.081	steal	.095
+GEAR	SHIFT	.131	CAMPING	.013	camping	.013	move	.013	swim	.013	hike	.033	shift	.131
+BELLY	ACHE	.069	SCRATCH	.014	scratch	.014	ache	.069
+BARK	BITE	.056	YELL	.014	yell	.014	bite	.056
+PROBLEM	SOLVE	.190	TALK	.014	talk	.014	worry	.014	help	.041	solve	.190
+SCRUB	WASH	.095	SCRATCH	.014	scratch	.014	rub	.034	wash	.095
+LIMOUSINE	RIDE	.019	RIDE	.019	ride	.019	stretch	.019
+RIM	TIRE	.167	SHOT	.013	shot	.013	tire	.167
+SKETCH	DRAW	.764	WRITE	.018	write	.018	draw	.764
+BULLETIN	FLASH	.013	FLASH	.013	flash	.013	inform	.013
+MOVEMENT	RUN	.070	CRAWL	.014	crawl	.014	shake	.014	stop	.014	dance	.028	walk	.049	run	.070
+LEVER	PULL	.171	CONTROL	.013	control	.013	help	.013	lift	.013	push	.013	pull	.171
+VAPOR	SMELL	.054	DISAPPEAR	.013	disappear	.013	rub	.027	breathe	.040	smell	.054
+SILVER	POLISH	.013	POLISH	.013	polish	.013	shine	.013
+AWARENESS	KNOW	.168	FORGET	.010	forget	.010	see	.015	unaware	.015	look	.020	awake	.091	know	.168
+THRIFT	SAVE	.233	STEAL	.018	steal	.018	smart	.030	spend	.113	save	.233
+HIGH SCHOOL	GRADUATE	.033	DANCE	.013	dance	.013	graduate	.033
+COOKBOOK	COOK	.068	COOKING	.034	cooking	.034	cook	.068
+CIGAR	SMELL	.081	STINK	.041	stink	.041	smell	.081
+DISBELIEF	DOUBT	.061	BELIEVE	.041	believe	.041	lie	.041	doubt	.061
+NOTES	PASS	.014	PASS	.014	pass	.014	take	.014
+SOLUTION	SOLVE	.068	FIX	.020	fix	.020	solve	.068
+BOARD	WALK	.020	BUILD	.013	build	.013	walk	.020
+HELL	DAMN	.021	BOUND	.014	bound	.014	scared	.014	damn	.021
+LINE	WAIT	.031	STAND	.016	stand	.016	draw	.024	wait	.031
+EAGLE	SOAR	.081	FLY	.068	fly	.068	soar	.081
+POLITICIAN	CORRUPT	.062	CHEAT	.014	cheat	.014	lie	.027	corrupt	.062
+CLUB	DANCE	.089	DRINK	.014	drink	.014	dance	.089
+PUKE	VOMIT	.204	DRINK	.026	drink	.026	smell	.026	throw up	.132	vomit	.204
+STAIR	CLIMB	.082	WALK	.041	walk	.041	fall	.061	climb	.082
+FOOD	DRINK	.050	APPLE	.011	apple	.011	drink	.050
+FOX	HUNT	.047	SMART	.013	smart	.013	hunt	.047
+CLUE	GUESS	.047	LEAD	.013	lead	.013	understand	.013	help	.034	guess	.047
+TOYS	PLAY	.112	BEAR	.020	bear	.020	play	.112
+CONFUSION	DISMAY	.034	CLARIFY	.014	clarify	.014	help	.014	know	.014	dismay	.034	mix	.034	understand	.034
+HOSTILITY	HATE	.042	FIGHT	.014	fight	.014	hate	.042
+BOXER	FIGHT	.092	HIT	.026	hit	.026	punch	.046	fight	.092
+WIND	BLOW	.169	FALL	.014	fall	.014	blow	.169
+WINE	DRINK	.128	DINE	.089	dine	.089	drink	.128
+EYEBROWS	PLUCK	.068	LIFT	.014	lift	.014	raise	.014	pluck	.068
+HARM	HURT	.635	HELP	.030	help	.030	hurt	.635
+CHIP	DIP	.090	BREAK	.069	break	.069	dip	.090
+NEWTON	APPLE	.138	SMART	.026	smart	.026	apple	.138
+CARDS	PLAYING	.075	SEND	.014	send	.014	gamble	.034	playing	.075
+FIST	FIGHT	.362	CLENCH	.016	clench	.016	hit	.079	punch	.118	fight	.362
+HARP	NAG	.024	SING	.012	sing	.012	play	.018	nag	.024
+SINGER	SING	.023	PERFORM	.015	perform	.015	sing	.023
+REGISTER	UNDERSTAND	.020	ACKNOWLEDGE	.013	acknowledge	.013	comprehend	.013	pay	.013	understand	.020
+COMMITMENT	PROMISE	.073	BREAK	.013	break	.013	promise	.073
+ABSENCE	MISSING	.086	EXCUSE	.013	excuse	.013	missing	.086
+SELECTION	PICK	.233	CHOOSE	.113	choose	.113	pick	.233
+WELFARE	HELP	.020	AID	.010	aid	.010	help	.020
+WAR	FIGHT	.138	KILL	.026	kill	.026	hate	.051	fight	.138
+CRITICISM	HURT	.028	HATE	.014	hate	.014	insult	.014	criticize	.021	help	.021	put down	.021	ridicule	.021	hurt	.028
+WRINKLE	FOLD	.020	BEND	.010	bend	.010	fold	.020
+TRACE	DRAW	.150	FIND	.068	find	.068	follow	.136	draw	.150
+JEALOUSY	HATE	.091	FIGHT	.010	fight	.010	hate	.091
+RUG	THROW	.026	BURN	.013	burn	.013	throw	.026
+OWNER	BELONG	.014	BELONG	.014	belong	.014	control	.014	keep	.014
+TYPE	WRITE	.109	CAST	.014	cast	.014	write	.109
+STOVE	COOK	.212	COOKING	.012	cooking	.012	cook	.212
+ORGAN	TRANSPLANT	.021	PLAY	.014	play	.014	transplant	.021
+CRIME	STEAL	.042	PAY	.014	pay	.014	stop	.014	watch	.028	steal	.042
+FEET	SMELL	.047	WALK	.020	walk	.020	smell	.047
+SNEAKER	SMELL	.034	COMFORT	.014	comfort	.014	run	.014	smell	.034
+POLICE	HELP	.087	ARREST	.016	arrest	.016	protect	.016	run	.016	help	.087
+KETTLE	BOIL	.074	COOK	.032	cook	.032	whistle	.032	boil	.074
+FUMES	SMELL	.138	SPRAY	.034	spray	.034	smell	.138
+FRUIT	APPLE	.223	FLY	.011	fly	.011	can	.016	apple	.223
+CONFLICT	FIGHT	.311	STRUGGLE	.014	struggle	.014	disagree	.061	fight	.311
+ADMISSION	ENTER	.190	DENY	.014	deny	.014	allow	.020	pay	.027	accept	.048	enter	.190
+BACKPACK	HIKE	.086	CARRY	.036	carry	.036	camping	.079	hike	.086
+TEACHER	LEARN	.068	HELP	.014	help	.014	teach	.020	apple	.034	smart	.041	learn	.068
+VOLUNTEER	HELP	.268	AID	.013	aid	.013	give	.013	help	.268
+COMPLIMENT	INSULT	.027	PLEASE	.013	please	.013	ridicule	.013	looks	.020	insult	.027
+UPSTAIRS	WALK	.027	CLIMB	.020	climb	.020	walk	.027
+PARK	STOP	.061	RIDE	.020	ride	.020	sit	.020	play	.027	drive	.047	stop	.061	swing	.061
+BACK	ACHE	.034	RUB	.014	rub	.014	ache	.034
+BOW	TIE	.124	BEND	.014	bend	.014	tie	.124
+SCOOP	DIG	.034	LIFT	.020	lift	.020	pick	.020	dig	.034
+PART	PLAY	.061	DIVIDE	.014	divide	.014	leave	.014	separate	.020	split	.020	play	.061
+CHESS	SET	.013	SET	.013	set	.013	smart	.013	think	.013
+TOBACCO	CHEW	.056	DIP	.015	dip	.015	disgust	.020	chew	.056
+LOVE	HATE	.456	ADMIRE	.011	admire	.011	adore	.011	hug	.011	like	.044	kiss	.056	hate	.456
+FROWN	CRY	.028	UPSET	.011	upset	.011	cry	.028
+SHOCK	SCARE	.092	SCARED	.028	scared	.028	surprise	.056	scare	.092
+FLOUR	BAKE	.122	COOK	.020	cook	.020	bake	.122
+CUSTOM	MADE	.085	DESIGN	.014	design	.014	made	.085
+TRAILER	HITCH	.156	TOW	.014	tow	.014	travel	.014	camping	.061	hitch	.156
+COSTUME	DISGUISE	.048	PRETEND	.012	pretend	.012	play	.036	disguise	.048
+MANUFACTURER	MAKE	.047	BUILD	.013	build	.013	consumer	.027	make	.047
+FISH	SWIM	.091	COOK	.012	cook	.012	catch	.018	fry	.024	smell	.042	swim	.091
+THEATER	PLAY	.162	SHOW	.020	show	.020	play	.162
+CLOCKWISE	WATCH	.033	TURN	.013	turn	.013	watch	.033
+PRAISE	ACKNOWLEDGE	.014	ACKNOWLEDGE	.014	acknowledge	.014	degrade	.014	help	.014	reprimand	.014
+FAULT	BLAME	.189	CRACK	.020	crack	.020	excuse	.020	blame	.189
+ALARM	AWAKE	.061	SCARE	.048	scare	.048	awake	.061
+REMINISCENCE	REMEMBER	.516	THINK	.016	think	.016	remind	.024	remember	.516
+HAMMOCK	SWING	.193	LAY	.033	lay	.033	nap	.033	relax	.120	swing	.193
+AFFECTION	HUG	.040	KISS	.013	kiss	.013	show	.013	hug	.040
+FLASHLIGHT	CAMPING	.034	SEE	.014	see	.014	shine	.014	camping	.034
+EXPLOSION	BOOM	.111	BURST	.013	burst	.013	destroy	.033	boom	.111
+POETRY	READ	.060	WRITE	.047	write	.047	read	.060
+IMPEDIMENT	STOP	.053	STUMBLE	.013	stumble	.013	stop	.053
+SNAKE	BITE	.279	SLITHER	.061	slither	.061	rattle	.085	bite	.279
+SIDEWALK	CRACK	.136	WALK	.050	walk	.050	crack	.136
+BUBBLE	BLOW	.029	FLOAT	.014	float	.014	pop	.022	blow	.029	burst	.029
+PROFESSOR	SMART	.065	TEACH	.050	teach	.050	smart	.065
+KINGDOM	COME	.069	UNITED	.014	united	.014	come	.069
+CRUMB	APPLE	.014	APPLE	.014	apple	.014	toast	.014
+HINGE	SWING	.094	SQUEAK	.047	squeak	.047	swing	.094
+PLACE	PUT	.062	GO	.014	go	.014	meet	.014	stay	.014	set	.021	put	.062
+TROMBONE	SLIDE	.020	BLOW	.013	blow	.013	play	.013	slide	.020
+RESTRICTION	STOP	.061	HOLD	.015	hold	.015	stop	.061
+CHORE	MOW	.027	HATE	.011	hate	.011	sing	.011	do	.022	mow	.027
+CAUTION	BEWARE	.104	YIELD	.014	yield	.014	stop	.056	beware	.104
+PUCK	KISS	.034	HIT	.014	hit	.014	pick	.014	play	.014	vomit	.020	kiss	.034
+RANK	SMELL	.074	STINK	.027	stink	.027	smell	.074
+PROGRAM	SHOW	.020	PLAY	.013	play	.013	show	.020
+MEETING	ADJOURN	.048	TALK	.014	talk	.014	adjourn	.048
+BARBECUE	GRILL	.100	COOK	.020	cook	.020	grill	.100
+DISPLAY	SHOW	.390	LOOK	.027	look	.027	show	.390
+EXCLAMATION POINT	YELL	.027	EXPLAIN	.014	explain	.014	yell	.027
+HANDICAP	PARKING	.145	HURT	.026	hurt	.026	parking	.145
+MUSCLE	FLEX	.055	BUILD	.014	build	.014	define	.014	ache	.021	fit	.028	flex	.055
+MASTER	CONTROL	.015	OBEY	.010	obey	.010	control	.015
+NUMBERS	COUNT	.041	ADD	.014	add	.014	set	.014	count	.041
+ENTRANCE	ENTER	.054	LEAVE	.014	leave	.014	enter	.054
+GRAMMAR	SPELL	.062	CORRECT	.021	correct	.021	spell	.062
+OPENING	CLOSING	.507	SHOW	.021	show	.021	closing	.507
+CONSTRUCTION	BUILD	.333	FIX	.015	fix	.015	build	.333
+KNIFE	STAB	.019	FIGHT	.013	fight	.013	hurt	.013	stab	.019
+ELECTRICIAN	FIX	.026	REPAIR	.013	repair	.013	fix	.026
+TRICK	TREAT	.331	PLAY	.014	play	.014	deceive	.041	treat	.331
+LEG	WALK	.036	RUN	.024	run	.024	walk	.036
+EARNESTNESS	DESIRE	.010	DESIRE	.010	desire	.010	yearn	.010
+INTENSITY	DRIVE	.014	DRIVE	.014	drive	.014	urge	.014
+EXIT	ENTER	.388	GO	.014	go	.014	leave	.281	enter	.388
+LEGS	RUN	.034	TAN	.014	tan	.014	walk	.020	run	.034
+BANANA	APPLE	.153	SLIP	.014	slip	.014	split	.083	apple	.153
+COFFEE	DRINK	.036	BREAK	.015	break	.015	drink	.036
+ONION	CRY	.209	STINK	.014	stink	.014	smell	.162	cry	.209
+STRAP	TIE	.051	WHIP	.022	whip	.022	hold	.036	tie	.051
+RESISTANCE	FIGHT	.128	ARREST	.010	arrest	.010	change	.010	help	.010	hold	.010	push	.010	rebel	.015	struggle	.015	stop	.046	fight	.128
+BENEFIT	HELP	.174	DOUBT	.010	doubt	.010	aid	.015	dance	.015	give	.015	gain	.036	help	.174
+SEED	GROW	.112	APPLE	.017	apple	.017	sow	.034	grow	.112
+GATHERING	COLLECT	.035	GET	.014	get	.014	hunting	.021	collect	.035
+THIEF	STEAL	.388	TAKE	.012	take	.012	steal	.388
+AURA	GLOW	.055	SMELL	.048	smell	.048	glow	.055
+RUNG	HUNG	.013	HUNG	.013	hung	.013	squeeze	.013
+MOUTH	WASH	.201	SPEAK	.011	speak	.011	talk	.043	kiss	.049	wash	.201
+WORK	PLAY	.122	EARN	.014	earn	.014	sweat	.014	relax	.020	play	.122
+TRAUMA	HURT	.031	BLOW	.010	blow	.010	scare	.030	hurt	.031
+ICE	PICK	.033	SCRATCH	.011	scratch	.011	drink	.016	melt	.016	pick	.033
+FACTORY	MAKE	.015	PRODUCE	.010	produce	.010	make	.015
+GOSSIP	TALK	.446	LIE	.036	lie	.036	talk	.446
+SNOW	FALL	.038	PLOW	.032	plow	.032	fall	.038
+FOREHEAD	SWEAT	.020	SHINE	.014	shine	.014	sweat	.020
+ENCYCLOPEDIA	LEARN	.020	LEARN	.020	learn	.020	smart	.020
+MECHANIC	FIX	.062	REPAIR	.021	repair	.021	fix	.062
+STAIRWAY	CLIMB	.068	FALL	.014	fall	.014	climb	.068
+DOLPHIN	SWIM	.036	SAVE	.014	save	.014	smart	.014	swim	.036
+KNOWLEDGE	SMART	.291	UNDERSTAND	.027	understand	.027	know	.061	learn	.068	smart	.291
+TRANSPORTATION	MOVE	.041	TRAVEL	.034	travel	.034	move	.041
+VOICE	SING	.182	YELL	.014	yell	.014	speak	.047	talk	.054	sing	.182
+SIN	FORGIVE	.036	LIE	.014	lie	.014	punish	.021	forgive	.036
+CUSTOMER	BUY	.108	PAY	.027	pay	.027	consumer	.034	buy	.108
+FORCE	PUSH	.176	COMMAND	.012	command	.012	hurt	.024	make	.127	push	.176
+PHONE	CALL	.283	TALK	.145	talk	.145	call	.283
+HOSTAGE	SCARED	.046	KEEP	.013	keep	.013	kidnap	.020	scared	.046
+MEMORIES	REMEMBER	.026	FOND	.013	fond	.013	remember	.026
+MERIT	AWARD	.176	EARN	.027	earn	.027	award	.176
+TAG	GRAB	.145	CATCH	.013	catch	.013	freeze	.013	hang	.013	play	.020	hit	.059	touch	.059	grab	.145
+TAB	DRINK	.054	POP	.014	pop	.014	pull	.020	can	.047	drink	.054
+ACTION	RUN	.051	DO	.014	do	.014	fight	.014	stop	.014	go	.022	take	.022	move	.043	run	.051
+MEDAL	AWARD	.170	WIN	.082	win	.082	award	.170
+BODY	BUILD	.027	SWEAT	.014	sweat	.014	build	.027
+DISCIPLINE	PUNISH	.056	REPRIMAND	.016	reprimand	.016	scold	.016	control	.024	correct	.024	spank	.040	punish	.056	teach	.056
+STOPPER	DRAIN	.045	GO	.018	go	.018	sink	.036	drain	.045
+FIGURE	ADD	.022	DECIDE	.015	decide	.015	object	.015	think	.015	add	.022	draw	.022
+RUNNER	JOG	.039	SWEAT	.020	sweat	.020	jog	.039
+LION	ROAR	.032	BEAR	.021	bear	.021	roar	.032
+CARESS	TOUCH	.355	CARING	.013	caring	.013	rub	.013	kiss	.020	soothe	.020	hug	.026	hold	.059	feel	.066	touch	.355
+ARTICLE	OBJECT	.014	OBJECT	.014	object	.014	read	.014
+CHILDREN	PLAY	.121	LAUGH	.014	laugh	.014	play	.121
+JOURNAL	WRITE	.190	READ	.014	read	.014	write	.190
+BOOTH	KISS	.049	SELL	.021	sell	.021	kiss	.049	stand	.049
+LOOP	FLIP	.016	FLIP	.016	flip	.016	tie	.016
+PACK	LEAVE	.054	CARRY	.014	carry	.014	gather	.014	travel	.014	move	.020	save	.020	leave	.054
+CAMPAIGN	RUN	.021	DRINK	.014	drink	.014	run	.021	trail	.021
+WRESTLING	SWEAT	.034	HOLD	.020	hold	.020	sweat	.034
+GUN	SHOOT	.241	HURT	.018	hurt	.018	shot	.042	kill	.108	shoot	.241
+GUM	CHEW	.563	TASTE	.014	taste	.014	chew	.563
+LABEL	CAN	.040	DESCRIBE	.013	describe	.013	guess	.013	read	.027	can	.040
+MOTH	FLY	.109	FLUTTER	.012	flutter	.012	fly	.109
+LECTURE	TALK	.152	DISCUSS	.015	discuss	.015	learn	.023	listen	.030	speak	.045	talk	.152
+MARKER	DRAW	.034	DRAW	.034	draw	.034	write	.034
+RULES	BREAK	.192	SUCK	.021	suck	.021	obey	.027	follow	.041	break	.192
+HEADBAND	SWEAT	.149	JOG	.027	jog	.027	sweat	.149
+SHAG	DANCE	.062	CATCH	.014	catch	.014	dance	.062
+CHEERLEADER	YELL	.026	JUMP	.013	jump	.013	yell	.026
+POSITION	SIT	.109	DANCE	.013	dance	.013	stand	.045	sit	.109
+LOAD	UNLOAD	.088	DUMP	.020	dump	.020	lift	.027	carry	.041	fill	.047	unload	.088
+LOAF	LOUNGE	.026	RELAX	.017	relax	.017	lounge	.026
+PUNCTUATION	CORRECT	.013	CORRECT	.013	correct	.013	spell	.013
+THREAT	SCARE	.092	FIGHT	.014	fight	.014	punish	.014	worry	.014	hurt	.021	warn	.028	promise	.057	kill	.064	scare	.092
+LOAN	BORROW	.143	PAY	.016	pay	.016	lend	.039	give	.047	borrow	.143
+SAVIOR	TASTE	.033	KNOW	.013	know	.013	help	.020	taste	.033
+BABY	CRY	.115	CUDDLE	.013	cuddle	.013	rattle	.013	cry	.115
+WAGE	PAY	.114	EARN	.107	earn	.107	pay	.114
+BRASS	SHINE	.090	POLISH	.021	polish	.021	tarnish	.028	shine	.090
+KANGAROO	JUMP	.136	BOUNCE	.019	bounce	.019	hop	.123	jump	.136
+PHILOSOPHY	THINK	.047	TALK	.013	talk	.013	thinking	.020	think	.047
+POLITICS	CORRUPT	.034	TALK	.014	talk	.014	corrupt	.034
+DOWNTOWN	SHOPPING	.020	PARKING	.014	parking	.014	shopping	.020
+OBSTACLE	OVERCOME	.053	OBJECT	.013	object	.013	jump	.027	overcome	.053
+RABBIT	JUMP	.034	HOP	.011	hop	.011	kill	.011	run	.017	hunt	.022	stew	.022	jump	.034
+RECOMMENDATION	SUGGEST	.040	RECOMMEND	.013	recommend	.013	write	.013	help	.020	suggest	.040
+ENGINEER	SMART	.158	BUILD	.020	build	.020	smart	.158
+CLAM	BAKE	.035	DIG	.014	dig	.014	bake	.035
+CAPACITY	HOLD	.043	FILL	.029	fill	.029	hold	.043
+RECEIPT	PURCHASE	.086	EXCHANGE	.013	exchange	.013	return	.020	pay	.033	slip	.039	buy	.046	change	.053	purchase	.086
+CLAW	BEAR	.122	SCRATCH	.068	scratch	.068	bear	.122
+FRIEND	CONFIDENT	.017	LIKE	.011	like	.011	confident	.017
+SPIT	CHEW	.046	SEPARATE	.013	separate	.013	disgust	.020	swallow	.033	chew	.046
+STORAGE	KEEP	.038	HIDE	.015	hide	.015	hold	.031	keep	.038	shed	.038
+BALLOON	POP	.209	RIDE	.014	ride	.014	fly	.034	float	.054	pop	.209
+STRIPE	STRIP	.017	HIT	.011	hit	.011	strip	.017
+BATHTUB	SINK	.091	SLIP	.013	slip	.013	relax	.026	wash	.026	sink	.091
+STAGE	PLAY	.149	DANCE	.014	dance	.014	show	.047	play	.149
+FENCE	CLIMB	.024	HOP	.016	hop	.016	climb	.024	jump	.024
+SHELTER	COVER	.055	HIDDEN	.014	hidden	.014	hide	.014	cover	.055
+THIMBLE	SEW	.295	PRICK	.013	prick	.013	sew	.295
+CRUTCH	HURT	.085	AID	.012	aid	.012	chew	.012	walk	.024	lean	.036	limp	.036	cast	.055	help	.061	hurt	.085
+FISHING	CATCH	.023	CATCH	.023	catch	.023	reel	.023
+VERDICT	JUDGE	.115	RESULT	.014	result	.014	judge	.115
+CHARITY	GIVE	.233	RUN	.014	run	.014	help	.041	give	.233
+REACTION	REFLECT	.062	JERK	.014	jerk	.014	look	.014	result	.021	surprise	.021	reflect	.062
+CLOG	DRAIN	.331	STUCK	.033	stuck	.033	dance	.040	sink	.060	stop	.073	drain	.331
+CAR	DRIVE	.122	RIDE	.011	ride	.011	tire	.011	travel	.039	drive	.122
+STEP	WALK	.075	CLIMB	.014	climb	.014	leap	.014	walk	.075
+PATIO	LOUNGE	.020	GRILL	.013	grill	.013	lounge	.020
+INTAKE	SWALLOW	.054	EXHALE	.014	exhale	.014	give	.014	receive	.014	drink	.020	inhale	.034	swallow	.054
+SCAR	BURN	.027	HEAL	.013	heal	.013	burn	.027	fight	.027	hurt	.027	scratch	.027
+COAT	TIE	.027	HANG	.014	hang	.014	cover	.020	tie	.027
+NAILS	POLISH	.069	BITE	.015	bite	.015	polish	.069
+COAL	BURN	.045	STRIKE	.013	strike	.013	burn	.045
+AMOUNT	CHARGE	.020	CHARGE	.020	charge	.020	pay	.020
+PISTOL	SHOOT	.036	WHIP	.015	whip	.015	shoot	.036
+BLOOM	SPRING	.047	GROW	.027	grow	.027	spring	.047
+GRIP	HOLD	.253	CLENCH	.014	clench	.014	grasp	.021	grab	.034	hold	.253
+GREASE	LUBRICATE	.027	FRY	.014	fry	.014	lubricate	.027
+STUDY	READ	.067	FAIL	.013	fail	.013	think	.013	learn	.054	read	.067
+RAIN	POUR	.045	SHINE	.019	shine	.019	pour	.045
+LEDGE	FALL	.083	WALK	.014	walk	.014	jump	.055	fall	.083
+LIBEL	SUE	.047	LIE	.027	lie	.027	blame	.034	sue	.047
+FLEA	BITE	.045	SCRATCH	.013	scratch	.013	bite	.045
+TUNE	FIX	.014	FIX	.014	fix	.014	sing	.014
+PRODUCT	CONSUMER	.041	BUY	.021	buy	.021	sell	.021	finish	.034	consumer	.041	produce	.041
+RECORD	LISTEN	.021	COLLECT	.014	collect	.014	keep	.014	listen	.021
+RUNNING	SWEAT	.052	SCARED	.045	scared	.045	sweat	.052
+LINK	CONNECT	.179	TIE	.021	tie	.021	join	.029	missing	.079	connect	.179
+AIRPLANE	FLY	.320	RIDE	.010	ride	.010	travel	.015	crash	.096	fly	.320
+PLUG	STOP	.069	PULL	.014	pull	.014	sink	.014	drain	.035	stop	.069
+CAPTIVE	ESCAPE	.019	CAPTURE	.013	capture	.013	escape	.019
+STRAW	DRINK	.179	SHAKE	.014	shake	.014	slurp	.021	sip	.029	drink	.179
+SUIT	TIE	.176	SWIM	.034	swim	.034	tie	.176
+SPREE	SHOPPING	.473	FLING	.013	fling	.013	flee	.020	run	.027	spend	.027	shopping	.473
+OPPORTUNITY	KNOCK	.071	TAKE	.014	take	.014	miss	.029	knock	.071
+CHECK	BOUNCE	.073	LOOK	.013	look	.013	bounce	.073
+SMELT	MELT	.068	BURN	.047	burn	.047	smell	.061	melt	.068
+BUTTER	MELT	.024	MELT	.024	melt	.024	toast	.024
+DAMAGE	HURT	.152	CRASH	.014	crash	.014	tear	.014	wreck	.014	fix	.021	repair	.021	destroy	.048	break	.055	hurt	.152
+MISSILE	LAUNCH	.055	SHOOT	.014	shoot	.014	destroy	.021	launch	.055
+HORNET	STING	.141	BITE	.020	bite	.020	sting	.141
+SUITCASE	TRAVEL	.164	LEAVE	.014	leave	.014	travel	.164
+STALK	HUNT	.076	ATTACK	.010	attack	.010	kill	.010	pounce	.010	stamp	.010	talk	.010	seek	.015	watch	.015	sneak	.020	walk	.025	follow	.061	hunt	.076
+HULA	DANCE	.189	HOP	.014	hop	.014	dance	.189
+GOVERNMENT	CORRUPT	.024	CORRUPT	.024	corrupt	.024	lie	.024
+HULL	PULL	.054	MOVE	.014	move	.014	carry	.047	pull	.054
+FINGERS	TOUCH	.014	TOUCH	.014	touch	.014	walk	.014
+PASSAGE	READ	.042	TRAVEL	.021	travel	.021	trail	.028	read	.042
+OZONE	DETERIORATE	.020	DECAY	.014	decay	.014	destroy	.014	deteriorate	.020
+SYMPATHY	CARING	.064	CRY	.014	cry	.014	concern	.021	understand	.021	caring	.064
+TRAITOR	BETRAY	.027	CHEAT	.014	cheat	.014	lie	.014	betray	.027	deceive	.027
+DISCOVERY	FIND	.306	FOUND	.062	found	.062	find	.306
+BARRIER	STOP	.041	DAMN	.014	damn	.014	stop	.041
+PEANUT	BOILED	.022	CRUNCH	.014	crunch	.014	boiled	.022
+BLACKMAIL	CHEAT	.048	USE	.014	use	.014	cheat	.048
+DENT	SCRATCH	.081	CRUSH	.014	crush	.014	hit	.014	bend	.027	crash	.041	scratch	.081
+COURAGE	DISCOURAGE	.021	SCARED	.014	scared	.014	discourage	.021
+WINDOW	LOOK	.019	FRAME	.013	frame	.013	jump	.013	see	.013	look	.019
+THORN	PRICK	.105	HURT	.035	hurt	.035	prick	.105
+SPICE	SEASONING	.035	SMELL	.014	smell	.014	seasoning	.035	taste	.035
+FRUSTRATION	ANNOY	.014	ANNOY	.014	annoy	.014	upset	.014
+POST	PUT	.020	ANNOUNCE	.014	announce	.014	put	.020	stamp	.020
+MANUFACTURE	MAKE	.275	PRODUCE	.087	produce	.087	build	.107	make	.275
+LAW	BREAK	.052	JUDGE	.021	judge	.021	break	.052
+MATTRESS	COMFORT	.013	COMFORT	.013	comfort	.013	jump	.013
+PAPER	WRITE	.144	WRAP	.011	wrap	.011	chase	.033	write	.144
+CURSE	SWEAR	.135	DAMN	.014	damn	.014	cuss	.020	spell	.027	swear	.135
+RECIPE	COOK	.331	BAKE	.019	bake	.019	cook	.331
+STALL	STOP	.095	DELAY	.014	delay	.014	die	.014	hesitate	.020	hold	.020	waste	.020	wait	.061	stop	.095
+TEAM	PLAY	.031	WIN	.016	win	.016	play	.031
+SLIVER	SLICE	.033	HURT	.013	hurt	.013	slice	.033
+COAST	GLIDE	.042	FLOAT	.012	float	.012	ride	.030	slide	.036	glide	.042
+BALLET	DANCE	.428	PLAY	.014	play	.014	dance	.428
+NOISE	HEAR	.026	SCREAM	.013	scream	.013	hear	.026
+LIQUID	DRINK	.063	BLEACH	.014	bleach	.014	drink	.063
+HOSPITAL	HELP	.041	SMELL	.014	smell	.014	help	.041
+HOTEL	TRAVEL	.020	STAY	.014	stay	.014	travel	.020
+RUBBER	TIRE	.095	STAMP	.014	stamp	.014	stretch	.027	tire	.095
+SWITCH	CHANGE	.236	MOVE	.014	move	.014	change	.236
+INJECTION	SHOT	.257	HURT	.014	hurt	.014	shot	.257
+WHEEL	TIRE	.126	BORROW	.014	borrow	.014	spin	.014	turn	.063	tire	.126
+MURDER	KILL	.564	DIE	.012	die	.012	shoot	.012	kill	.564
+HANDLE	HOLD	.069	LIFT	.014	lift	.014	use	.014	carry	.041	touch	.041	hold	.069
+SUCCESS	WIN	.127	ACCOMPLISH	.013	accomplish	.013	achieve	.013	defeat	.013	win	.127
+LUGGAGE	TRAVEL	.205	CARRY	.014	carry	.014	travel	.205
+CANDLE	BURN	.080	LIT	.029	lit	.029	burn	.080
+BAIT	TACKLE	.060	TEASE	.020	tease	.020	tackle	.060
+DIFFERENCE	CHANGE	.035	DISAGREE	.010	disagree	.010	separate	.015	change	.035	subtract	.035
+MATCH	MIX	.027	BURN	.014	burn	.014	set	.014	connect	.020	mix	.027
+CLERK	HELP	.016	HELP	.016	help	.016	jerk	.016
+DYNAMITE	BOOM	.086	EXPLODE	.066	explode	.066	boom	.086
+GANDER	LOOK	.173	THINK	.014	think	.014	walk	.014	wander	.022	guess	.036	look	.173
+ROCKS	CLIMB	.040	THROW	.013	throw	.013	climb	.040
+ROAST	BAKE	.012	BAKE	.012	bake	.012	boil	.012	burn	.012	cook	.012	fry	.012
+DUCK	QUACK	.115	SHOOT	.014	shoot	.014	swim	.014	hunt	.020	quack	.115
+IMPACT	CRASH	.257	CRUSH	.027	crush	.027	hit	.142	crash	.257
+DRUM	BEAT	.096	HIT	.013	hit	.013	set	.013	beat	.096
+DRUG	ABUSE	.061	USE	.014	use	.014	crack	.020	abuse	.061
+UNDERSTANDING	COMPREHEND	.120	LISTEN	.013	listen	.013	confuse	.020	comprehend	.120
+CONVERSATION	TALK	.642	RAP	.014	rap	.014	speak	.061	talk	.642
+ACHIEVEMENT	ACCOMPLISH	.081	WIN	.020	win	.020	accomplish	.081	award	.081
+AFFAIR	CHEAT	.142	FLING	.020	fling	.020	cheat	.142
+STORY	TELL	.054	READ	.034	read	.034	tell	.054
+DOPE	CRACK	.013	CRACK	.013	crack	.013	smart	.013
+NOOSE	HANG	.345	KILL	.014	kill	.014	hang	.345
+STORE	BUY	.142	KEEP	.016	keep	.016	save	.031	buy	.142
+ALLERGY	SNEEZE	.407	ATTACK	.014	attack	.014	cough	.021	shot	.048	sneeze	.407
+FROG	JUMP	.068	FLY	.034	fly	.034	leap	.041	hop	.055	jump	.068
+HAIRSPRAY	HOLD	.041	CAN	.014	can	.014	spray	.034	hold	.041	smell	.041
+WAGER	PAY	.030	GAMBLE	.012	gamble	.012	pay	.030
+ROLL	CALL	.034	FOLD	.014	fold	.014	shake	.014	tumble	.014	fall	.021	turn	.021	call	.034
+PICKET	STRIKE	.096	REBEL	.014	rebel	.014	strike	.096
+TENDENCY	URGE	.027	DO	.021	do	.021	lean	.021	urge	.027
+PARENTS	ANNOY	.034	RESPECT	.014	respect	.014	understand	.014	caring	.021	annoy	.034
+DENIAL	REFUSE	.167	DISMISS	.016	dismiss	.016	admit	.024	accept	.032	reject	.048	lie	.095	refuse	.167
+HABIT	SMOKING	.124	BREAK	.062	break	.062	smoking	.124
+DISCUSSION	TALK	.550	DEBATE	.014	debate	.014	communicate	.021	talk	.550
+RHYTHM	BEAT	.354	DANCE	.041	dance	.041	beat	.354
+METHOD	DO	.021	PRACTICE	.014	practice	.014	use	.014	do	.021
+DOMINANT	CONTROL	.054	FORCEFUL	.027	forceful	.027	control	.054
+CONSIDER	THINK	.500	ALLOW	.013	allow	.013	decide	.013	ponder	.039	think	.500
+GYMNAST	TUMBLE	.026	SPLIT	.013	split	.013	tumble	.026
+EGGS	SCRAMBLE	.169	BREAK	.020	break	.020	cook	.020	crack	.020	toast	.020	fry	.027	scramble	.169
+JELLY	JAM	.213	TOAST	.128	toast	.128	jam	.213
+HELIUM	FLOAT	.028	BREATHE	.021	breathe	.021	float	.028
+FRAY	TEAR	.108	SEPARATE	.014	separate	.014	split	.020	fight	.034	rip	.034	tear	.108
+BULLET	KILL	.027	HURT	.014	hurt	.014	kill	.027	shot	.027
+TIN	CAN	.503	FOIL	.027	foil	.027	can	.503
+EXPERIENCE	LEARN	.061	SMART	.014	smart	.014	do	.020	learn	.061
+INCOME	EARN	.013	EARN	.013	earn	.013	pay	.013
+ACROBAT	FLIP	.097	FLY	.019	fly	.019	jump	.019	flip	.097
+DEATH	DIE	.079	BURY	.016	bury	.016	die	.079
+GUEST	VISIT	.026	STAY	.013	stay	.013	visit	.026
+HUNGER	STARVE	.087	FAMISHED	.011	famished	.011	starve	.087
+DISCOMFORT	COMFORT	.061	ACHE	.014	ache	.014	hurt	.054	comfort	.061
+APPROVAL	PERMISSION	.026	STAMP	.013	stamp	.013	permission	.026
+NURSE	HELP	.021	AID	.014	aid	.014	help	.021
+SKI	RESORT	.034	FLY	.014	fly	.014	lift	.014	jump	.027	resort	.034
+MASSAGE	RELAX	.173	FEEL	.020	feel	.020	soothe	.047	rub	.167	relax	.173
+PATTERN	SEW	.159	FOLLOW	.015	follow	.015	set	.023	design	.045	sew	.159
+JUG	DRINK	.061	CAN	.020	can	.020	drink	.061
+FAVORITE	LIKE	.094	DISLIKE	.014	dislike	.014	prefer	.014	like	.094
+YARN	KNIT	.386	CROCHET	.024	crochet	.024	weave	.024	sew	.071	knit	.386
+SOUP	CAN	.018	DRINK	.012	drink	.012	can	.018	stew	.018
+VIDEO	SHOW	.020	WATCH	.013	watch	.013	show	.020
+SURVEY	ASK	.020	ASK	.020	ask	.020	look	.020
+THEORY	PROVE	.028	PRACTICE	.014	practice	.014	prove	.028
+REPENTANCE	FORGIVE	.195	ADMIT	.010	admit	.010	repeat	.020	regret	.025	forgive	.195
+PHILOSOPHER	THINK	.066	ANALYZE	.013	analyze	.013	smart	.053	think	.066
+STUD	JERK	.020	SHOW	.014	show	.014	jerk	.020
+STROKE	SWIM	.079	COMFORT	.013	comfort	.013	swing	.013	touch	.013	hit	.020	feel	.026	die	.039	rub	.039	swim	.079
+PLEASURE	ENJOY	.028	PLEASE	.014	please	.014	enjoy	.028
+TUB	SINK	.036	WASH	.014	wash	.014	sink	.036
+SPEED	DRIVE	.027	ACCELERATE	.020	accelerate	.020	bump	.020	drive	.027
+ANT	BITE	.034	STING	.017	sting	.017	bite	.034
+AUDIENCE	WATCH	.039	LAUGH	.020	laugh	.020	play	.020	show	.026	watch	.039
+PARAGRAPH	WRITE	.065	READ	.026	read	.026	write	.065
+PURPOSE	INTENT	.028	USE	.014	use	.014	intent	.028
+BASKET	WEAVE	.210	CARRY	.014	carry	.014	waste	.014	weave	.210
+PROVISION	SUPPLY	.047	GIVE	.014	give	.014	save	.014	change	.027	need	.041	supply	.047
+SUMMER	SPRING	.051	FALL	.020	fall	.020	swim	.020	spring	.051
+PENCIL	LEAD	.140	WRITE	.070	write	.070	lead	.140
+COUCH	SIT	.054	COMFORT	.020	comfort	.020	lay	.020	relax	.027	sit	.054
+AIRPORT	FLY	.061	TRAVEL	.014	travel	.014	fly	.061
+FASHION	DESIGN	.068	SHOW	.054	show	.054	design	.068
+DEGREE	ANGLE	.021	GRADUATE	.014	graduate	.014	angle	.021
+THIRST	DRINK	.283	QUENCH	.097	quench	.097	drink	.283
+SNORKEL	SWIM	.155	DIVING	.061	diving	.061	dive	.135	swim	.155
+RESEARCH	LOOK	.035	FIND	.014	find	.014	discover	.028	look	.035
+EXPRESSION	LOOK	.036	LAUGH	.010	laugh	.010	saying	.021	look	.036
+BALL	THROW	.071	HIT	.022	hit	.022	dance	.043	bounce	.060	throw	.071
+BLOSSOM	SHOW	.105	SPRING	.020	spring	.020	grow	.066	show	.105
+LOCK	KEEP	.011	KEEP	.011	keep	.011	shut	.011
+SODA	POP	.439	CAN	.034	can	.034	drink	.082	pop	.439
+HEM	SEW	.218	FIX	.012	fix	.012	sew	.218
+EXAMPLE	SHOW	.062	EASY	.014	easy	.014	help	.027	show	.062
+MISTAKE	CORRECT	.103	FORGIVE	.014	forgive	.014	fix	.043	correct	.103
+GOAL	ACHIEVE	.174	DESIRE	.013	desire	.013	hope	.013	reach	.013	want	.013	aim	.020	win	.027	achieve	.174
+POISON	KILL	.088	APPLE	.014	apple	.014	control	.014	kill	.088
+STRATEGY	SMART	.027	THINKING	.021	thinking	.021	smart	.027
+PREY	HUNT	.062	KNEEL	.014	kneel	.014	kill	.027	hunt	.062
+TRAP	CATCH	.091	SCARED	.015	scared	.015	stuck	.015	bear	.023	escape	.023	hunt	.023	capture	.030	catch	.091
+VOID	FORGET	.020	AVOID	.013	avoid	.013	destroy	.013	stop	.013	forget	.020
+TRAY	CARRY	.027	HOLD	.014	hold	.014	carry	.027
+EARS	HEAR	.239	LISTEN	.022	listen	.022	hear	.239
+FUGITIVE	RUN	.054	WANTED	.014	wanted	.014	rebel	.020	hide	.027	escape	.041	run	.054
+CHORUS	SING	.421	REFRAIN	.016	refrain	.016	sing	.421
+LETTERS	WRITE	.124	STAMP	.033	stamp	.033	write	.124
+OWE	PAY	.135	LEND	.014	lend	.014	buy	.027	borrow	.047	pay	.135
+SHOWER	RELAX	.011	RELAX	.011	relax	.011	wash	.011
+OPERA	SING	.257	SHOW	.014	show	.014	play	.021	sing	.257
+STIMULUS	START	.020	TOUCH	.013	touch	.013	start	.020
+INTEREST	LIKE	.103	CONCERN	.014	concern	.014	gain	.014	understand	.014	desire	.021	like	.103
+ROCK	MOVE	.019	MOVE	.019	move	.019	sway	.019
+QUOTIENT	DIVIDE	.100	MULTIPLY	.020	multiply	.020	divide	.100
+RING	CALL	.020	WEAR	.013	wear	.013	call	.020
+MAKE UP	BLUSH	.023	COVER	.015	cover	.015	blush	.023
+PLANT	GROW	.106	LIVE	.011	live	.011	grow	.106
+ALUMINUM	CAN	.315	RECYCLE	.068	recycle	.068	foil	.164	can	.315
+ATTENTION	GET	.036	GRAB	.010	grab	.010	ignore	.010	look	.010	salute	.010	pay	.015	please	.015	stop	.015	listen	.020	stand	.020	concentrate	.025	get	.036
+PLANE	FLY	.238	TRAVEL	.014	travel	.014	ride	.028	crash	.161	fly	.238
+BLENDER	MIX	.183	CHOP	.013	chop	.013	combine	.013	grind	.013	shake	.072	mix	.183
+INSIGHT	LOOK	.056	SMART	.015	smart	.015	look	.056
+DART	THROW	.081	RUN	.041	run	.041	throw	.081
+PARTY	DRINK	.060	DANCE	.016	dance	.016	go	.016	drink	.060
+ORDER	FRIES	.029	ASK	.015	ask	.015	demand	.015	tell	.022	fries	.029	obey	.029	organize	.029
+TROPHY	WIN	.343	AWARD	.182	award	.182	win	.343
+JUICE	APPLE	.070	DRINK	.042	drink	.042	apple	.070
+HINT	GUESS	.086	ASK	.020	ask	.020	cheat	.020	whisper	.020	help	.026	tell	.040	guess	.086
+PIE	APPLE	.228	BAKE	.011	bake	.011	slice	.011	apple	.228
+CUFF	FOLD	.021	HIT	.014	hit	.014	fold	.021
+LOBSTER	BROIL	.013	BROIL	.013	broil	.013	pinch	.013
+WHISKEY	DRINK	.081	SHOT	.020	shot	.020	drink	.081
+GROWTH	DECAY	.013	DECAY	.013	decay	.013	grow	.013	shrink	.013
+VACUUM	SUCK	.222	SWEEP	.028	sweep	.028	suck	.222
+FAME	KNOWN	.020	DANCE	.010	dance	.010	known	.020
+AUTHORITY	CHARGE	.021	RESPECT	.014	respect	.014	charge	.021
+HEARING	AID	.148	SEE	.056	see	.056	listen	.106	aid	.148
+MAIL	STAMP	.071	CALL	.016	call	.016	shopping	.016	stamp	.071
+PERCEPTION	SEE	.077	THINK	.035	think	.035	perceive	.049	understand	.049	see	.077
+WONDER	AMAZE	.185	IMAGINE	.017	imagine	.017	ponder	.025	worry	.025	amaze	.185	think	.185
+CHANCE	TRY	.086	GUESS	.010	guess	.010	hope	.015	gamble	.025	happen	.025	take	.035	try	.086
+VICTORY	WIN	.377	TRIUMPH	.014	triumph	.014	lose	.027	defeat	.192	win	.377
+PRINT	WRITE	.490	SPELL	.028	spell	.028	write	.490
+FEAR	SCARED	.351	SCREAM	.014	scream	.014	hate	.027	scared	.351
+BLOCK	STOP	.040	DEFEND	.013	defend	.013	tackle	.020	stop	.040
+TALENT	SHOW	.145	SING	.055	sing	.055	dance	.069	show	.145
+DEODORANT	SMELL	.372	PERSPIRE	.014	perspire	.014	spray	.034	sweat	.041	smell	.372
+SHAME	DOUBT	.076	ABUSE	.010	abuse	.010	hurt	.010	blame	.015	hide	.015	humiliate	.015	regret	.015	embarrass	.066	doubt	.076
+VISION	SEE	.141	BLUR	.016	blur	.016	see	.141
+SUGGESTION	ASK	.047	ADVISE	.014	advise	.014	request	.014	help	.020	tell	.020	ask	.047
+PERFORMANCE	SHOW	.090	SING	.028	sing	.028	dance	.041	play	.076	show	.090
+GUIDE	LEAD	.183	FOLLOW	.016	follow	.016	help	.032	show	.079	lead	.183
+BUTTERFLY	FLY	.091	FLUTTER	.012	flutter	.012	spring	.012	fly	.091
+DISTANCE	RUN	.102	TRAVEL	.020	travel	.020	run	.102
+MIXTURE	BLEND	.054	COOK	.014	cook	.014	mix	.027	drink	.047	blend	.054
+PSYCHOLOGY	THINK	.045	LEARN	.015	learn	.015	think	.045
+TUMOR	DIE	.027	BUMP	.014	bump	.014	remove	.020	die	.027
+CALORIES	BURN	.040	FATTENING	.013	fattening	.013	burn	.040
+TRAGEDY	PLAY	.021	CRY	.014	cry	.014	upset	.014	wreck	.014	play	.021
+BATTLE	FIGHT	.163	CRY	.014	cry	.014	die	.014	win	.054	fight	.163
+ACT	PLAY	.182	FAIL	.014	fail	.014	sing	.014	smart	.014	perform	.020	portray	.020	do	.074	pretend	.176	play	.182
+THROAT	SWALLOW	.072	TALK	.011	talk	.011	cough	.017	swallow	.072
+NET	CATCH	.034	GAIN	.021	gain	.021	pay	.021	catch	.034
+SYRUP	COUGH	.014	COUGH	.014	cough	.014	toast	.014
+CHAPEL	MARRY	.059	PRAY	.013	pray	.013	marry	.059
+OVEN	COOK	.218	TOAST	.012	toast	.012	bake	.212	cook	.218
+EASE	EASY	.102	SLIDE	.015	slide	.015	help	.020	soothe	.020	comfort	.046	easy	.102	relax	.102
+FROST	BITE	.133	FALL	.012	fall	.012	bite	.133
+SALE	BUY	.069	SPEND	.014	spend	.014	save	.034	sell	.055	buy	.069
+CRAFT	CREATE	.041	SEW	.014	sew	.014	show	.014	build	.028	create	.041	make	.041
+GAUGE	TIRE	.024	JUDGE	.016	judge	.016	tire	.024
+LIQUOR	DRINK	.070	INTOXICATE	.021	intoxicate	.021	drink	.070
+DIVISION	SEPARATE	.088	SPLIT	.020	split	.020	divide	.054	multiply	.068	separate	.088
+QUIVER	SHAKE	.615	CRY	.014	cry	.014	move	.014	shiver	.068	shake	.615
+CHOICE	PICK	.108	MAKE	.010	make	.010	choose	.072	pick	.108
+STATEMENT	REMARK	.029	MAKE	.014	make	.014	talk	.014	say	.022	remark	.029
+BOOT	KICK	.074	LICK	.014	lick	.014	kick	.074
+BOOK	READ	.425	LEARN	.047	learn	.047	read	.425
+KNUCKLE	PUNCH	.043	FIGHT	.014	fight	.014	crack	.036	punch	.043
+FURNITURE	SIT	.054	COMFORT	.027	comfort	.027	sit	.054
+ANXIETY	ATTACK	.092	SCARED	.014	scared	.014	upset	.028	worry	.035	attack	.092
+GOLD	SHINE	.015	SHINE	.015	shine	.015	watch	.015
+KLEENEX	SNEEZE	.105	CRY	.020	cry	.020	wipe	.020	blow	.066	sneeze	.105
+WAX	SHINE	.126	MELT	.013	melt	.013	polish	.013	slip	.020	wash	.020	shine	.126
+ASSISTANCE	HELP	.696	AID	.054	aid	.054	help	.696
+RESTROOM	SINK	.026	SMELL	.013	smell	.013	sink	.026
+PIMPLE	BUMP	.047	POP	.033	pop	.033	bump	.047
+ROT	DECAY	.237	DECOMPOSE	.013	decompose	.013	erode	.013	melt	.013	apple	.019	die	.019	destroy	.026	deteriorate	.026	stink	.064	smell	.083	spoil	.090	decay	.237
+SARDINE	CAN	.214	STINK	.016	stink	.016	swim	.016	smell	.071	can	.214
+AD	SUBTRACT	.079	SELL	.033	sell	.033	subtract	.079
+HIKER	HITCHHIKE	.216	TRAVEL	.020	travel	.020	walk	.081	hitchhike	.216
+AX	CHOP	.092	PICK	.020	pick	.020	kill	.039	chop	.092
+CHICKEN	FRIED	.076	BAKED	.011	baked	.011	scared	.011	fried	.076
+DEVELOPMENT	BUILD	.020	MAKE	.014	make	.014	build	.020
+PARROT	TALK	.110	MIMIC	.021	mimic	.021	talk	.110
+NOTE	WRITE	.049	REMEMBER	.014	remember	.014	take	.014	write	.049
+BLAST	BOOM	.067	PUSH	.013	push	.013	shoot	.027	blow	.040	explode	.053	boom	.067
+EASTER	BREAK	.034	SPRING	.014	spring	.014	break	.034
+HAVOC	WRECK	.027	RAISE	.014	raise	.014	wreck	.027
+SCREWDRIVER	DRINK	.196	TURN	.021	turn	.021	fix	.035	drink	.196
+STAKE	CLAIM	.020	DRIVE	.014	drive	.014	claim	.020
+APRON	COOK	.291	COVER	.020	cover	.020	tie	.020	cooking	.122	cook	.291
+STICKER	STAMP	.076	PARKING	.014	parking	.014	lick	.021	smell	.021	stamp	.076
+FLUID	DRINK	.086	RUN	.013	run	.013	flow	.020	drink	.086
+CUSHION	COMFORT	.022	COMFORT	.022	comfort	.022	sit	.022
+INTERSTATE	TRAVEL	.026	DRIVE	.013	drive	.013	travel	.026
+IMPRESSION	IMITATE	.015	IMITATE	.015	imitate	.015	looks	.015
+CONQUEST	WIN	.089	DESIRE	.014	desire	.014	search	.014	triumph	.014	defeat	.027	fight	.034	overcome	.034	conquer	.055	win	.089
+PEACE	HOPE	.021	TALK	.014	talk	.014	hope	.021
+PREFERENCE	LIKE	.154	TASTE	.010	taste	.010	choose	.015	dislike	.015	pick	.015	desire	.025	prefer	.056	want	.081	like	.154
+RIVER	FLOW	.063	RUN	.016	run	.016	swim	.016	bend	.047	flow	.063
+TROUBLE	SHOOTING	.048	EASY	.021	easy	.021	fight	.027	help	.041	shooting	.048
+CLOTHES	WEAR	.081	SHOPPING	.013	shopping	.013	cover	.020	wear	.081
+EXPLANATION	EXCUSE	.144	LIE	.013	lie	.013	teach	.013	tell	.013	describe	.020	understand	.046	excuse	.144
+WATER	DRINK	.167	SWIM	.058	swim	.058	drink	.167
+ROBE	COVER	.055	WEAR	.016	wear	.016	cover	.055
+LAP	SIT	.176	RUN	.014	run	.014	dance	.020	drink	.027	swim	.027	sit	.176
+TOUCHDOWN	WIN	.020	PASS	.013	pass	.013	win	.020
+MOVIE	SHOW	.061	WATCH	.010	watch	.010	reel	.015	show	.061
+VERSE	SING	.027	REFRAIN	.014	refrain	.014	sing	.027
+FRAUD	CHEAT	.090	STEAL	.021	steal	.021	lie	.069	cheat	.090
+SEAM	SEW	.186	MEND	.021	mend	.021	rip	.036	sew	.186
+SEAL	STAMP	.063	LICK	.021	lick	.021	stamp	.063
+HONOR	SMART	.020	JUDGE	.014	judge	.014	respect	.014	smart	.020
+CLEANER	BLEACH	.014	BLEACH	.014	bleach	.014	spray	.014
+BATHROOM	SINK	.094	WASH	.029	wash	.029	sink	.094
+CHISEL	BREAK	.015	CREATE	.010	create	.010	pick	.010	break	.015	chop	.015
+OINTMENT	HEAL	.026	SMELL	.013	smell	.013	heal	.026
+SLANDER	LIE	.108	CHEAT	.014	cheat	.014	fight	.014	kill	.014	sue	.014	talk	.014	cuss	.034	hate	.034	hurt	.041	lie	.108
+ACCIDENT	CRASH	.128	FALL	.014	fall	.014	hurt	.020	wreck	.054	crash	.128
+AMBULANCE	HURT	.043	RUSH	.014	rush	.014	rescue	.022	help	.036	hurt	.043
+TECHNOLOGY	ADVANCE	.104	CHANGE	.013	change	.013	advance	.104
+DILIGENCE	TRY	.020	NEGLECT	.010	neglect	.010	smart	.015	try	.020
+PAGE	TURN	.075	READ	.021	read	.021	call	.041	turn	.075
+BREATH	INHALE	.056	CHOKE	.016	choke	.016	breathe	.040	inhale	.056
+PUMP	TIRE	.053	PRESS	.013	press	.013	pull	.020	push	.026	tire	.053
+IMPULSE	URGE	.034	DESIRE	.014	desire	.014	spray	.014	urge	.034
+KNOB	TURN	.040	BUMP	.016	bump	.016	turn	.040
+APPLICATION	USE	.048	EARN	.014	earn	.014	permit	.014	use	.048
+DIRECTIONS	FOLLOW	.079	HELP	.013	help	.013	confuse	.020	follow	.079
+CORNER	ANGLE	.029	ANGLE	.029	angle	.029	turn	.029
+BANDAID	HURT	.057	COVER	.014	cover	.014	heal	.014	protect	.014	scratch	.014	hurt	.057
+ACID	BURN	.150	HIT	.014	hit	.014	burn	.150
+HEART	BEAT	.183	BREAK	.016	break	.016	attack	.079	beat	.183
+GARBAGE	CAN	.128	REFUSE	.021	refuse	.021	smell	.036	can	.128
+POINT	AIM	.036	SEE	.012	see	.012	shoot	.012	stare	.012	show	.018	direct	.024	aim	.036	look	.036
+DRUGS	CRACK	.028	ABUSE	.021	abuse	.021	kill	.021	crack	.028
+TEAPOT	WHISTLE	.068	BOIL	.020	boil	.020	drink	.027	whistle	.068
+INSTRUCTION	TEACH	.053	HELP	.013	help	.013	learn	.013	listen	.026	read	.026	follow	.046	teach	.053
+SPATULA	COOK	.185	FRY	.041	fry	.041	flip	.055	cook	.185
+PRODUCTION	PLAY	.108	MADE	.014	made	.014	produce	.041	show	.041	make	.061	play	.108
+WORDS	TALK	.048	READ	.014	read	.014	say	.014	write	.021	communicate	.027	talk	.048
+TOP	SPIN	.020	COVER	.014	cover	.014	spin	.020
+BOND	UNITE	.033	COMBINE	.013	combine	.013	tie	.020	join	.026	unite	.033
+SHIRT	TIE	.103	WEAR	.032	wear	.032	tie	.103
+JET	FLY	.068	SET	.014	set	.014	fly	.068
+SITE	SEE	.105	BITE	.013	bite	.013	sit	.013	see	.105
+OUTFIT	WEAR	.033	SHOPPING	.020	shopping	.020	wear	.033
+LUST	DESIRE	.058	LIKE	.019	like	.019	want	.045	desire	.058
+PROTEIN	SHAKE	.020	BUILD	.013	build	.013	shake	.020
+LOSS	GAIN	.230	ADD	.020	add	.020	defeat	.020	find	.041	found	.061	lose	.081	win	.169	gain	.230
+CONFIDENCE	ESTEEM	.056	BELIEVE	.014	believe	.014	esteem	.056
+CREEK	SQUEAK	.014	SQUEAK	.014	squeak	.014	swim	.014
+POSSESSION	HAVE	.047	KEEP	.013	keep	.013	object	.013	hold	.027	have	.047
+COMMUNICATION	TALK	.358	SPEAK	.046	speak	.046	talk	.358
+PERJURY	LIE	.382	CHEAT	.049	cheat	.049	lie	.382
+RADIO	LISTEN	.027	HEAR	.014	hear	.014	listen	.027
+RESERVATION	HOLD	.068	MAKE	.014	make	.014	save	.020	hold	.068
+STRUCTURE	BUILD	.035	DESIGN	.014	design	.014	frame	.014	build	.035
+TOY	PLAY	.244	BREAK	.011	break	.011	play	.244
+PUBLICATION	READ	.014	READ	.014	read	.014	show	.014
+HIKING	CLIMB	.080	HITCH	.013	hitch	.013	camping	.040	trail	.067	climb	.080	walk	.080
+DECK	HIT	.021	PUNCH	.014	punch	.014	hit	.021
+GREEN	APPLE	.014	APPLE	.014	apple	.014	go	.014
+HOBBY	COLLECT	.034	SHOPPING	.014	shopping	.014	swim	.014	stamp	.021	collect	.034	dance	.034
+GREED	WANT	.096	HATE	.027	hate	.027	want	.096
+BULLY	JERK	.102	HURT	.014	hurt	.014	push	.014	fight	.041	jerk	.102
+VIOLENCE	FIGHT	.072	HURT	.020	hurt	.020	kill	.039	fight	.072
+CAPABILITY	TRY	.024	SMART	.016	smart	.016	try	.024
+CINNAMON	TOAST	.218	APPLE	.019	apple	.019	toast	.218
+FARMER	PLOW	.025	GROW	.010	grow	.010	produce	.010	tan	.015	plow	.025
+SKILLET	FRY	.235	COOK	.051	cook	.051	fry	.235
+SCREEN	PLAY	.034	HIDE	.013	hide	.013	see	.013	play	.034
+CHARCOAL	GRILL	.247	BURN	.040	burn	.040	cook	.053	grill	.247
+LEATHER	HIDE	.040	TAN	.016	tan	.016	hide	.040
+SCRAP	WASTE	.065	RUB	.019	rub	.019	scratch	.019	fight	.037	waste	.065
+GUITAR	PLAY	.047	PICK	.020	pick	.020	play	.047
+BAND	PLAY	.056	RAP	.014	rap	.014	play	.056
+BANG	BOOM	.159	SMASH	.014	smash	.014	crash	.021	knock	.021	shoot	.028	hit	.041	boom	.159
+SCORE	WIN	.116	KEEP	.014	keep	.014	win	.116
+SALESMAN	ANNOY	.020	BOTHER	.013	bother	.013	persuade	.013	annoy	.020	buy	.020	sell	.020
+SCHOLARSHIP	AWARD	.073	SMART	.040	smart	.040	grant	.053	award	.073
+PRESSURE	TIRE	.034	EXPLODE	.020	explode	.020	wash	.020	push	.027	tire	.034
+FESTIVAL	CELEBRATE	.014	CELEBRATE	.014	celebrate	.014	dance	.014
+SIGNAL	TURN	.090	DIRECT	.014	direct	.014	show	.021	call	.028	go	.034	turn	.090
+TREND	FOLLOW	.029	SET	.021	set	.021	follow	.029
+DEFENSE	PROTECT	.062	HELP	.014	help	.014	defend	.021	fight	.055	protect	.062
+CRAB	APPLE	.047	CRAWL	.014	crawl	.014	pinch	.041	apple	.047
+MESSAGE	TALK	.023	COMMUNICATE	.015	communicate	.015	deliver	.015	talk	.023	write	.023
+TOOLS	SHED	.033	BUILD	.013	build	.013	fix	.026	shed	.033
+BONDAGE	TIE	.069	HOLD	.028	hold	.028	whip	.028	tie	.069
+GRAVITY	FALL	.099	APPLE	.028	apple	.028	float	.035	pull	.092	fall	.099
+STITCH	SEW	.521	MEND	.103	mend	.103	sew	.521
+BANJO	PLAY	.075	PICK	.014	pick	.014	play	.075
+EGG	SCRAMBLE	.061	BREAK	.012	break	.012	crack	.018	toast	.018	fry	.048	scramble	.061
+FAUCET	SINK	.155	DRAIN	.014	drain	.014	tap	.020	drip	.047	sink	.155
+RAM	HIT	.072	BUMP	.021	bump	.021	hit	.072
+ANSWER	REPLY	.103	CALL	.016	call	.016	talk	.016	correct	.024	reply	.103
+ROAD	DRIVE	.040	TRAIL	.015	trail	.015	travel	.030	drive	.040
+NOSE	SMELL	.108	SNEEZE	.020	sneeze	.020	blow	.034	smell	.108
+PEPPER	SNEEZE	.041	SEASONING	.010	seasoning	.010	sneeze	.041
+EYE	SEE	.362	LOOK	.016	look	.016	see	.362
+CURVE	BEND	.091	ANGLE	.012	angle	.012	slide	.012	turn	.055	bend	.091
+QUAIL	HUNT	.056	SHOOT	.014	shoot	.014	hunt	.056
+TICKET	PASS	.034	PARKING	.014	parking	.014	ride	.020	show	.020	pass	.034
+STOCK	EXCHANGE	.020	ADD	.013	add	.013	live	.013	exchange	.020	fill	.020
+SHOULDER	LEAN	.056	COMFORT	.010	comfort	.010	cry	.030	lean	.056
+IMPATIENCE	HURRY	.073	ANNOY	.013	annoy	.013	hurry	.073
+SIGHT	SEE	.346	LOOK	.026	look	.026	see	.346
+SCALE	WEIGH	.112	CLIMB	.037	climb	.037	weigh	.112
+FUN	LAUGH	.094	ENJOY	.063	enjoy	.063	play	.079	laugh	.094
+CONVICT	ESCAPE	.036	ARREST	.022	arrest	.022	escape	.036
+CONFERENCE	TALK	.082	CALL	.055	call	.055	talk	.082
+APPEARANCE	LOOKS	.427	SHOW	.020	show	.020	looks	.427
+HILL	CLIMB	.064	INCLINE	.013	incline	.013	climb	.064
+RUMOR	LIE	.243	SPREAD	.014	spread	.014	talk	.049	lie	.243
+EXCISE	REMOVE	.054	USE	.020	use	.020	fit	.027	leave	.027	remove	.054
+RANGE	SHOOT	.031	COOKING	.010	cooking	.010	shoot	.031
+JACK	TIRE	.034	LIFT	.013	lift	.013	tire	.034
+SPAWN	BREED	.061	CREATE	.014	create	.014	hatch	.020	reproduce	.027	grow	.041	breed	.061
+PROJECT	THROW	.027	LOOK	.020	look	.020	throw	.027
+MOOD	SWING	.081	TEMPER	.010	temper	.010	change	.025	swing	.081
+CAPTION	SAYING	.049	SHOW	.014	show	.014	saying	.049
+NOON	AWAKE	.013	AWAKE	.013	awake	.013	nap	.013
+TUBA	BLOW	.020	BLOW	.020	blow	.020	diving	.020
+THEFT	STEAL	.313	KILL	.014	kill	.014	rob	.014	stolen	.054	steal	.313
+LEMONADE	DRINK	.230	STAND	.059	stand	.059	drink	.230
+HORN	BLOW	.129	CALL	.014	call	.014	blow	.129
+SPONGE	SOAK	.147	WASH	.027	wash	.027	soak	.147
+MUG	ROB	.039	STEAL	.016	steal	.016	drink	.024	rob	.039
+CURE	FIX	.042	FIX	.042	fix	.042	heal	.042	help	.042
+ASS	JERK	.046	KISS	.026	kiss	.026	jerk	.046
+MANAGEMENT	CONTROL	.066	RUN	.010	run	.010	control	.066
+WORD	SPEAK	.030	WRITE	.015	write	.015	speak	.030
+MASK	HIDE	.182	DISGUISE	.048	disguise	.048	cover	.121	hide	.182
+WORM	WIGGLE	.042	APPLE	.024	apple	.024	crawl	.036	wiggle	.042
+MASH	SMASH	.089	BEAT	.011	beat	.011	hit	.011	crush	.050	smash	.089
+SLUG	HIT	.065	SUCK	.013	suck	.013	punch	.019	hit	.065
+JEWELRY	WEAR	.029	SHINE	.015	shine	.015	watch	.015	wear	.029
+SAILING	RELAX	.021	RELAX	.021	relax	.021	swim	.021
+HERB	COOK	.034	SMELL	.013	smell	.013	cook	.034
+LESSON	LEARN	.281	TEACH	.110	teach	.110	learn	.281
+EXPENSE	PAY	.033	BUY	.011	buy	.011	pay	.033
+TARGET	PRACTICE	.061	AIM	.014	aim	.014	hit	.014	shoot	.034	practice	.061
+ESSENCE	SMELL	.095	NEED	.020	need	.020	smell	.095
+BOMB	EXPLODE	.150	BLOW	.013	blow	.013	boom	.013	destroy	.013	scare	.013	explode	.150
+CONCEIT	DECEIVE	.027	HIDE	.013	hide	.013	lie	.013	deceive	.027
+EYEBALL	SEE	.074	WATCH	.014	watch	.014	look	.027	see	.074
+ROACH	SPRAY	.028	KILL	.021	kill	.021	spray	.028
+FEE	PAY	.224	CHARGE	.033	charge	.033	pay	.224
+OPINION	THINK	.020	EXPRESS	.010	express	.010	debate	.015	think	.020
+SHUTTLE	MOVE	.020	LAUNCH	.014	launch	.014	move	.020
+PATH	TRAIL	.170	FOLLOW	.042	follow	.042	walk	.091	trail	.170
+LATCH	CATCH	.011	CATCH	.011	catch	.011	hold	.011
+ASCENT	CLIMB	.103	GO	.014	go	.014	leave	.014	raise	.014	decline	.021	rise	.062	fall	.076	climb	.103
+RACQUETBALL	SWEAT	.065	PLAY	.013	play	.013	sweat	.065
+PORT	CALL	.033	CRUISE	.016	cruise	.016	call	.033
+SERIES	SET	.021	SHOW	.014	show	.014	set	.021
+BIT	BITE	.145	CHEW	.013	chew	.013	smell	.013	bite	.145
+GRAVE	DIE	.039	DIG	.028	dig	.028	die	.039
+DISGRACE	EMBARRASS	.117	PUT DOWN	.010	put down	.010	regret	.010	upset	.010	hurt	.015	humiliate	.025	disgust	.041	embarrass	.117
+WART	BUMP	.045	REMOVE	.038	remove	.038	bump	.045
+ENDING	START	.090	STOP	.042	stop	.042	finish	.056	start	.090
+GARLIC	SMELL	.130	TOAST	.014	toast	.014	seasoning	.027	stink	.027	smell	.130
+FLEET	RUN	.027	LEAVE	.014	leave	.014	run	.027
+HOLE	DIG	.047	FALL	.031	fall	.031	dig	.047
+MEANING	UNDERSTAND	.027	INTENT	.014	intent	.014	define	.020	understand	.027
+CRADLE	HOLD	.062	CUDDLE	.027	cuddle	.027	hold	.062
+SINKER	DROWN	.013	DROWN	.013	drown	.013	swim	.013
+LACE	TRIM	.032	TIE	.013	tie	.013	slip	.019	trim	.032
+CONGRESS	CHEAT	.033	CORRUPT	.013	corrupt	.013	cheat	.033
+WORKER	PAY	.014	PAY	.014	pay	.014	sweat	.014
+LACK	NEED	.117	DESIRE	.011	desire	.011	have	.011	fail	.017	want	.028	miss	.089	need	.117
+BAGGAGE	CLAIM	.068	TRAVEL	.054	travel	.054	claim	.068
+VAULT	JUMP	.085	FLY	.012	fly	.012	leap	.012	jump	.085
+MAGNET	ATTRACT	.140	PULL	.013	pull	.013	attract	.140
+DICTATOR	CONTROL	.015	CONTROL	.015	control	.015	talk	.015
+ACTIVITY	RUN	.040	PLAY	.020	play	.020	run	.040
+TWINE	MIX	.020	WRAP	.014	wrap	.014	mix	.020
+MAGIC	SHOW	.061	SPELL	.014	spell	.014	disappear	.020	show	.061
+RIFLE	SHOOT	.124	KILL	.014	kill	.014	hunt	.041	shoot	.124
+WORKOUT	SWEAT	.164	FIT	.014	fit	.014	sweat	.164
+KIT	SEW	.102	FIX	.014	fix	.014	sew	.102
+ITEM	OBJECT	.095	BUY	.016	buy	.016	object	.095
+SNEAKERS	RUN	.081	SMELL	.047	smell	.047	run	.081
+PITCH	THROW	.181	TOSS	.021	toss	.021	catch	.049	hit	.049	throw	.181
+PLUMBER	SINK	.067	FIX	.020	fix	.020	drain	.027	crack	.047	sink	.067
+SICKNESS	VOMIT	.045	COUGH	.023	cough	.023	vomit	.045
+LIGHT	SEE	.013	SEE	.013	see	.013	shine	.013
+ROCKET	LAUNCH	.069	EXPLODE	.035	explode	.035	launch	.069
+LUMP	BUMP	.188	HIT	.013	hit	.013	bump	.188
+RATE	JUDGE	.027	CHANGE	.020	change	.020	judge	.027
+STOMACH	ACHE	.284	UPSET	.014	upset	.014	ache	.284
+SCUBA	DIVE	.510	SWIM	.014	swim	.014	dive	.510
+MALT	SHAKE	.320	DRINK	.054	drink	.054	shake	.320
+WARNING	STOP	.048	HELP	.014	help	.014	scare	.014	scold	.014	watch	.014	tell	.020	beware	.027	stop	.048
+WALLET	STOLEN	.027	LOSE	.014	lose	.014	stolen	.027
+PLEDGE	PROMISE	.059	SALUTE	.013	salute	.013	promise	.059
+RAG	WASH	.020	TEAR	.014	tear	.014	tease	.014	wash	.020
+MOOSE	HUNT	.042	CALL	.012	call	.012	hunt	.042
+REASON	EXCUSE	.076	JUSTIFY	.010	justify	.010	talk	.010	think	.051	excuse	.076
+ALTO	SING	.041	STOP	.034	stop	.034	sing	.041
+POTATO	BAKED	.122	FRIED	.014	fried	.014	baked	.122	fries	.122
+TRACK	RUN	.359	FIND	.013	find	.013	hunt	.026	trail	.032	run	.359
+DRAGON	FLY	.035	SCARE	.014	scare	.014	fly	.035
+BEER	DRINK	.178	TASTE	.011	taste	.011	can	.049	drink	.178
+MAYONNAISE	FATTENING	.020	SMELL	.014	smell	.014	fattening	.020
+STAFF	LOUNGE	.020	HELP	.014	help	.014	parking	.014	teach	.014	lounge	.020
+DOWNSTREAM	FLOW	.033	EASY	.013	easy	.013	float	.020	flow	.033
+TANTRUM	TEMPER	.209	SPOILED	.014	spoiled	.014	throw	.022	cry	.036	fit	.194	temper	.209
+LODGE	STUCK	.055	HUNT	.014	hunt	.014	stuck	.055
+CAUSE	HAPPEN	.056	BE	.011	be	.011	create	.011	fight	.011	help	.011	rebel	.011	make	.022	happen	.056
+PERCH	SIT	.115	STAND	.020	stand	.020	sit	.115
+REWARD	GIVE	.037	FIND	.015	find	.015	punish	.015	award	.029	give	.037
+PLAYGROUND	SWING	.172	SLIDE	.040	slide	.040	swing	.172
+COUNTER	SINK	.026	ATTACK	.013	attack	.013	help	.013	sink	.026
+FUSS	ARGUE	.099	BOTHER	.013	bother	.013	nag	.013	scream	.013	yell	.013	fit	.020	worry	.020	annoy	.026	fight	.053	cry	.059	complain	.079	argue	.099
+STANDARD	SHIFT	.027	SET	.014	set	.014	shift	.027
+FUSE	BLOW	.074	CHANGE	.014	change	.014	join	.020	blow	.074
+TOURIST	JERK	.013	JERK	.013	jerk	.013	travel	.013
+MONSTER	SCARE	.133	SCREAM	.012	scream	.012	scare	.133
+STRANGER	MEET	.014	MEET	.014	meet	.014	scared	.014
+PORCH	SWING	.185	SIT	.014	sit	.014	relaxed	.021	swing	.185
+DOORWAY	ENTER	.035	FRAME	.014	frame	.014	jam	.028	enter	.035
+SELF	ESTEEM	.028	CONTROL	.021	control	.021	esteem	.028
+RAFT	FLOAT	.261	SWIM	.011	swim	.011	float	.261
+SIDE	ACHE	.022	HELP	.014	help	.014	walk	.014	ache	.022
+PONY	EXPRESS	.061	RIDE	.055	ride	.055	express	.061
+BELIEF	LIE	.020	KNOW	.014	know	.014	understand	.014	lie	.020
+HOOK	CATCH	.032	FASTEN	.013	fasten	.013	hang	.013	catch	.032
+MIRROR	LOOK	.028	SEE	.019	see	.019	look	.028
+KINDNESS	CARING	.014	CARING	.014	caring	.014	give	.014
+RECREATION	PLAY	.263	RELAX	.020	relax	.020	play	.263
+GAG	CHOKE	.173	KILL	.013	kill	.013	stop	.013	tie	.013	laugh	.020	vomit	.020	choke	.173
+LOBBY	WAIT	.117	LOUNGE	.034	lounge	.034	wait	.117
+BEAUTY	AID	.014	AID	.014	aid	.014	looks	.014
+AUTO	DRIVE	.014	DRIVE	.014	drive	.014	repair	.014
+FOOTBALL	FALL	.028	PLAY	.014	play	.014	tackle	.014	fall	.028	kick	.028
+CONSCIENCE	AWAKE	.041	THINK	.014	think	.014	awake	.041
+ART	DRAW	.073	SHOW	.020	show	.020	draw	.073
+MEMORY	REMEMBER	.077	RECALL	.014	recall	.014	think	.021	forget	.042	remember	.077
+EXISTENCE	BE	.021	BE	.021	be	.021	exist	.021
+CONCLUSION	FINISH	.023	SOLVE	.015	solve	.015	finish	.023
+SWORD	FIGHT	.045	KILL	.013	kill	.013	stab	.032	fight	.045
+LICENSE	DRIVE	.349	KILL	.013	kill	.013	drive	.349
+KNAPSACK	CAMPING	.047	CARRY	.020	carry	.020	camping	.047
+STREAM	FLOW	.026	FLOW	.026	flow	.026	run	.026
+JACKET	TIE	.032	WEAR	.013	wear	.013	tie	.032
+SUMMIT	GIVE	.041	ACCEPT	.014	accept	.014	turn	.034	give	.041
+BANDAGE	HURT	.071	WRAP	.019	wrap	.019	hurt	.071
+MASTERY	SMART	.028	KNOW	.014	know	.014	conquer	.021	control	.021	smart	.028
+ENVELOPE	STAMP	.069	SWALLOW	.014	swallow	.014	send	.021	stamp	.069
+TEARS	CRY	.493	RIP	.020	rip	.020	sweat	.034	cry	.493
+BOLT	RUN	.048	DASH	.018	dash	.018	run	.048
+ARROW	SHOOT	.030	FLY	.015	fly	.015	shoot	.030
+LOLLIPOP	SUCK	.108	LICK	.041	lick	.041	suck	.108
+VICTIM	ABUSE	.030	ACCUSE	.015	accuse	.015	hurt	.023	abuse	.030
+REMORSE	REGRET	.123	DOUBT	.014	doubt	.014	cry	.021	forgive	.021	upset	.027	regret	.123
+WORSHIP	PRAY	.076	ADORE	.021	adore	.021	follow	.034	pray	.076
+WISH	HOPE	.213	WASH	.016	wash	.016	pray	.031	think	.031	desire	.039	want	.071	hope	.213
+WILDERNESS	CAMPING	.061	BEAR	.041	bear	.041	camping	.061
+CHALLENGE	COMPETE	.054	ACCEPT	.014	accept	.014	conquer	.014	meet	.014	win	.014	struggle	.020	dare	.027	fight	.034	compete	.054
+SPIKE	HIT	.020	DRINK	.014	drink	.014	stab	.014	tire	.014	hit	.020
+REPORT	TELL	.101	SPEAK	.010	speak	.010	update	.010	write	.015	tell	.101
+ADDICTION	NEED	.055	CRACK	.021	crack	.021	need	.055
+GLUE	SNIFF	.033	SMELL	.020	smell	.020	sniff	.033
+SOFT DRINK	DRINK	.020	CAN	.014	can	.014	drink	.020	pop	.020
+LANGUAGE	SPEAK	.143	TALK	.041	talk	.041	speak	.143
+MOTION	MOVE	.164	DANCE	.021	dance	.021	stop	.029	move	.164
+MEASURE	CALCULATE	.027	COOK	.014	cook	.014	count	.014	weigh	.020	calculate	.027
+STAIRS	CLIMB	.225	ASCEND	.013	ascend	.013	fall	.033	walk	.060	climb	.225
+OBSESSION	DESIRE	.041	NEED	.014	need	.014	want	.027	desire	.041
+ENEMY	HATE	.096	FIGHT	.040	fight	.040	hate	.096
+FRACTURE	BREAK	.554	CRACK	.014	crack	.014	hurt	.034	break	.554
+RESPONSE	TALK	.028	REPLY	.014	reply	.014	speak	.014	respond	.021	talk	.028
+SCARF	TIE	.040	WRAP	.020	wrap	.020	tie	.040
+QUARREL	FIGHT	.699	YELL	.021	yell	.021	argue	.133	fight	.699
+PEROXIDE	BLEACH	.067	HEAL	.013	heal	.013	bleach	.067
+VOW	PROMISE	.266	SWEAR	.071	swear	.071	promise	.266
+BARREL	LAUGH	.018	APPLE	.012	apple	.012	can	.012	laugh	.018
+EDUCATION	LEARN	.130	TEACH	.055	teach	.055	learn	.130
+PLAN	ORGANIZE	.081	ATTACK	.010	attack	.010	build	.010	prepare	.010	decide	.015	think	.020	organize	.081
+ACCOUNT	CHECKING	.035	CHARGE	.021	charge	.021	checking	.035
+FURY	FIGHT	.028	HATE	.014	hate	.014	fight	.028
+FINGERNAIL	POLISH	.271	SCRATCH	.036	scratch	.036	bite	.050	break	.057	polish	.271
+PAPERCLIP	HOLD	.059	ATTACH	.013	attach	.013	fasten	.020	hold	.059
+MODEL	DESIGN	.023	BUILD	.015	build	.015	design	.023
+TALE	SPEAK	.033	SAY	.011	say	.011	tell	.017	lie	.028	speak	.033
+BUCKET	WASH	.020	KICK	.014	kick	.014	wash	.020
+OUTLAW	WANTED	.029	FORBID	.014	forbid	.014	rebel	.021	wanted	.029
+CAKE	BAKE	.033	BAKE	.033	bake	.033	mix	.033	walk	.033
+SCHEME	PLAY	.014	PLAY	.014	play	.014	think	.014
+CUT	SLICE	.061	SCRATCH	.022	scratch	.022	hurt	.056	slice	.061
+TOWEL	WASH	.027	WIPE	.020	wipe	.020	wash	.027
+MIND	THINK	.084	SEARCH	.014	search	.014	think	.084
+CUE	GO	.047	PLAY	.014	play	.014	speak	.014	help	.020	start	.027	go	.047
+STUFF	FILL	.026	BEAR	.010	bear	.010	push	.010	fill	.026
+ISLAND	CRUISE	.014	CRUISE	.014	cruise	.014	resort	.014
+BRAT	SPOILED	.174	JERK	.030	jerk	.030	spoiled	.174
+ANALYSIS	THINK	.028	LOOK	.014	look	.014	observe	.021	think	.028
+FAILURE	PASS	.097	STOP	.014	stop	.014	try	.021	win	.021	flunk	.048	pass	.097
+COMPULSION	NEED	.071	BUY	.010	buy	.010	steal	.010	do	.015	drive	.015	gamble	.015	lie	.025	desire	.036	urge	.046	need	.071
+DAGGER	STAB	.030	FIGHT	.010	fight	.010	kill	.015	stab	.030
+NEWS	FLASH	.021	CAST	.014	cast	.014	update	.014	flash	.021
+ORANGE JUICE	DRINK	.094	CONCENTRATE	.013	concentrate	.013	squeeze	.013	drink	.094
+CO-PILOT	HELP	.061	FLY	.020	fly	.020	help	.061
+WITNESS	SEE	.062	ACCUSE	.014	accuse	.014	suspect	.014	judge	.021	stand	.028	testify	.041	see	.062
+DESTRUCTION	DESTROY	.159	BREAK	.023	break	.023	demolish	.023	kill	.030	destroy	.159
+PHYSICIAN	HEAL	.014	HEAL	.014	heal	.014	smart	.014
+SEASON	FALL	.191	CHANGE	.059	change	.059	spring	.086	fall	.191
+CANDY	APPLE	.035	FATTENING	.021	fattening	.021	apple	.035
+FORESIGHT	SEE	.041	KNOW	.021	know	.021	see	.041
+INSECT	BITE	.126	FLY	.094	fly	.094	bite	.126
+VOTE	ELECT	.167	SELECT	.013	select	.013	win	.019	decide	.026	choose	.038	elect	.167
+RELISH	ENJOY	.088	HATE	.020	hate	.020	enjoy	.088
+ENVY	HATE	.127	ADMIRE	.027	admire	.027	want	.033	like	.053	hate	.127
+CARNIVAL	RIDE	.197	CRUISE	.026	cruise	.026	ride	.197
+SCROLL	WRITE	.144	SPELL	.014	spell	.014	read	.027	write	.144
+DROVE	DRIVE	.068	TRAVEL	.014	travel	.014	ride	.034	drive	.068
